@@ -1,0 +1,11 @@
+From http://www.ananova.com/tv/ (HTML)
+we have:
+
+<select name="c">...</select>
+names and IDs of channels
+
+<select name="day">...</select>
+names of days (day0=yesterday, 1=today, 2=tomorrow, 3=day after)
+
+fetch using http://www.ananova.com/tv_listings/_xmltv.php?day=day0&c=77
+output is XMLTV - see tv.xml

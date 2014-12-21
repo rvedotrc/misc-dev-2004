@@ -1,0 +1,13 @@
+#!/usr/bin/perl -w
+# vi: set ts=4 sw=4 :
+
+use strict;
+
+use Filesys::SmbClient;
+
+my $smb = new Filesys::SmbClient(
+	username  => "alian",
+	password  => "speed",
+	workgroup => "alian",
+	debug     => 10,
+);

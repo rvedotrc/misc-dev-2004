@@ -1,0 +1,432 @@
+@_ = (
+       '4',
+       2004,
+       1,
+       24
+     );
+The error was: [Entity: line 1: parser error : Space required after the Public Identifier
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+                                                             ^
+Entity: line 1: parser error : SystemLiteral " or ' expected
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+                                                             ^
+Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+                                                             ^
+Entity: line 13: parser error : Opening and ending tag mismatch: img line 13 and td
+an="8"><img src="/images/blank.gif" width="1" height="15" border="0" alt=""></td
+                                                                               ^
+Entity: line 14: parser error : Opening and ending tag mismatch: td line 13 and tr
+</tr>
+     ^
+Entity: line 16: parser error : Opening and ending tag mismatch: img line 16 and a
+ges/lite_brand_header.gif" width="206" height="38" border="0" alt="Ananova"></a>
+                                                                               ^
+Entity: line 16: parser error : Opening and ending tag mismatch: a line 16 and td
+lite_brand_header.gif" width="206" height="38" border="0" alt="Ananova"></a></td
+                                                                               ^
+Entity: line 17: parser error : Opening and ending tag mismatch: td line 16 and tr
+</tr>
+     ^
+Entity: line 19: parser error : Opening and ending tag mismatch: img line 19 and td
+an="8"><img src="/images/blank.gif" width="1" height="10" border="0" alt=""></td
+                                                                               ^
+Entity: line 20: parser error : Opening and ending tag mismatch: td line 19 and tr
+</tr>
+     ^
+Entity: line 22: parser error : Opening and ending tag mismatch: img line 22 and a
+rc="/images/lite_home_off.gif" width="57" height="18" border="0" alt="Home"></a>
+                                                                               ^
+Entity: line 22: parser error : Opening and ending tag mismatch: a line 22 and td
+/images/lite_home_off.gif" width="57" height="18" border="0" alt="Home"></a></td
+                                                                               ^
+Entity: line 23: parser error : Opening and ending tag mismatch: img line 23 and a
+rc="/images/lite_news_off.gif" width="54" height="18" border="0" alt="News"></a>
+                                                                               ^
+Entity: line 23: parser error : Opening and ending tag mismatch: a line 23 and td
+/images/lite_news_off.gif" width="54" height="18" border="0" alt="News"></a></td
+                                                                               ^
+Entity: line 24: parser error : Opening and ending tag mismatch: img line 24 and a
+s/lite_ents_off.gif" width="105" height="18" border="0" alt="Entertainment"></a>
+                                                                               ^
+Entity: line 24: parser error : Opening and ending tag mismatch: a line 24 and td
+te_ents_off.gif" width="105" height="18" border="0" alt="Entertainment"></a></td
+                                                                               ^
+Entity: line 25: parser error : Opening and ending tag mismatch: img line 25 and a
+="/images/lite_sport_off.gif" width="56" height="18" border="0" alt="Sport"></a>
+                                                                               ^
+Entity: line 25: parser error : Opening and ending tag mismatch: a line 25 and td
+mages/lite_sport_off.gif" width="56" height="18" border="0" alt="Sport"></a></td
+                                                                               ^
+Entity: line 26: parser error : Opening and ending tag mismatch: img line 26 and a
+ges/lite_business_off.gif" width="77" height="18" border="0" alt="Business"></a>
+                                                                               ^
+Entity: line 26: parser error : Opening and ending tag mismatch: a line 26 and td
+lite_business_off.gif" width="77" height="18" border="0" alt="Business"></a></td
+                                                                               ^
+Entity: line 27: parser error : Opening and ending tag mismatch: img line 27 and a
+/lite_video_off.gif" width="104" height="18" border="0" alt="Video Reports"></a>
+                                                                               ^
+Entity: line 27: parser error : Opening and ending tag mismatch: a line 27 and td
+e_video_off.gif" width="104" height="18" border="0" alt="Video Reports"></a></td
+                                                                               ^
+Entity: line 28: parser error : Opening and ending tag mismatch: img line 28 and a
+mages/lite_weather_off.gif" width="71" height="18" border="0" alt="Weather"></a>
+                                                                               ^
+Entity: line 28: parser error : Opening and ending tag mismatch: a line 28 and td
+s/lite_weather_off.gif" width="71" height="18" border="0" alt="Weather"></a></td
+                                                                               ^
+Entity: line 29: parser error : Opening and ending tag mismatch: img line 29 and a
+c="/images/lite_tv_on.gif" width="76" height="18" border="0" alt="TV Guide"></a>
+                                                                               ^
+Entity: line 29: parser error : Opening and ending tag mismatch: a line 29 and td
+images/lite_tv_on.gif" width="76" height="18" border="0" alt="TV Guide"></a></td
+                                                                               ^
+Entity: line 30: parser error : Opening and ending tag mismatch: td line 29 and tr
+</tr>
+     ^
+Entity: line 32: parser error : Opening and ending tag mismatch: img line 32 and td
+-panel"><img src="/images/blank.gif" width="1" height="3" border="0" alt=""></td
+                                                                               ^
+Entity: line 33: parser error : Opening and ending tag mismatch: td line 32 and tr
+</tr>
+     ^
+Entity: line 39: parser error : Opening and ending tag mismatch: img line 39 and td
+-panel"><img src="/images/blank.gif" width="5" height="1" border="0" alt=""></td
+                                                                               ^
+Entity: line 40: parser error : Opening and ending tag mismatch: img line 40 and td
+ges/analite_search.gif" width="91" height="21" border="0" alt="News search"></td
+                                                                               ^
+Entity: line 42: parser error : Entity 'nbsp' not defined
+	   <small><input name="QUERY00" value="" size="35">&nbsp;&nbsp;</small>
+	                                                         ^
+Entity: line 42: parser error : Entity 'nbsp' not defined
+	   <small><input name="QUERY00" value="" size="35">&nbsp;&nbsp;</small>
+	                                                               ^
+Entity: line 42: parser error : Opening and ending tag mismatch: input line 42 and small
+	   <small><input name="QUERY00" value="" size="35">&nbsp;&nbsp;</small>
+	                                                                       ^
+Entity: line 44: parser error : Opening and ending tag mismatch: input line 43 and td
+	</td>
+	     ^
+Entity: line 45: parser error : Opening and ending tag mismatch: small line 42 and tr
+</tr>
+     ^
+Entity: line 47: parser error : Opening and ending tag mismatch: img line 47 and td
+-panel"><img src="/images/blank.gif" width="1" height="3" border="0" alt=""></td
+                                                                               ^
+Entity: line 48: parser error : Opening and ending tag mismatch: td line 47 and tr
+</tr>
+     ^
+Entity: line 50: parser error : Opening and ending tag mismatch: img line 50 and td
+an="3"><img src="/images/blank.gif" width="1" height="10" border="0" alt=""></td
+                                                                               ^
+Entity: line 51: parser error : Opening and ending tag mismatch: td line 50 and tr
+</tr>
+     ^
+Entity: line 52: parser error : Opening and ending tag mismatch: tr line 49 and table
+</table>
+        ^
+Entity: line 59: parser error : Opening and ending tag mismatch: input line 58 and form
+</form>
+       ^
+Entity: line 60: parser error : Opening and ending tag mismatch: input line 57 and td
+</td>
+     ^
+Entity: line 61: parser error : Opening and ending tag mismatch: input line 56 and table
+</table>
+        ^
+Entity: line 65: parser error : Opening and ending tag mismatch: img line 65 and td
+  <td><img src="/images/blank.gif" alt="" border="0" width="190" height="1"></td
+                                                                               ^
+Entity: line 66: parser error : Opening and ending tag mismatch: img line 66 and td
+  <td><img src="/images/blank.gif" alt="" border="0" width="410" height="1"></td
+                                                                               ^
+Entity: line 67: parser error : Opening and ending tag mismatch: td line 66 and tr
+  </tr>
+       ^
+Entity: line 72: parser error : Opening and ending tag mismatch: img line 72 and td
+  <td><img src="/images/blank.gif" border="0" alt="" height="1" width="150"></td
+                                                                               ^
+Entity: line 73: parser error : Opening and ending tag mismatch: img line 73 and td
+   <td><img src="/images/blank.gif" border="0" alt="" height="1" width="15"></td
+                                                                               ^
+Entity: line 74: parser error : Opening and ending tag mismatch: img line 74 and td
+    <td><img src="/images/blank.gif" border="0" alt="" height="1" width="1"></td
+                                                                               ^
+Entity: line 75: parser error : Opening and ending tag mismatch: img line 75 and td
+   <td><img src="/images/blank.gif" border="0" alt="" height="1" width="24"></td
+                                                                               ^
+Entity: line 76: parser error : Opening and ending tag mismatch: td line 75 and tr
+        </tr>
+             ^
+Entity: line 80: parser error : Opening and ending tag mismatch: img line 80 and td
+h="15"><img src="/images/blank.gif" alt="" border="0" width="15" height="1"></td
+                                                                               ^
+Entity: line 81: parser error : Opening and ending tag mismatch: img line 81 and td
+dth="1"><img src="/images/blank.gif" width="1" height="1" alt="" border="0"></td
+                                                                               ^
+Entity: line 82: parser error : Opening and ending tag mismatch: img line 82 and td
+h="24"><img src="/images/blank.gif" border="0" alt="" width="24" height="1"></td
+                                                                               ^
+Entity: line 83: parser error : Opening and ending tag mismatch: td line 82 and tr
+        </tr>
+             ^
+Entity: line 84: parser error : Opening and ending tag mismatch: td line 81 and table
+      </table>
+              ^
+Entity: line 95: parser error : Opening and ending tag mismatch: td line 74 and table
+</table>
+        ^
+Entity: line 122: parser error : Entity 'copy' not defined
+		<small>Copyright &copy; 2004 Ananova Ltd
+		                       ^
+Entity: line 133: parser error : Opening and ending tag mismatch: td line 73 and div
+</div>
+      ^
+Entity: line 134: parser error : Opening and ending tag mismatch: td line 72 and body
+</body>
+       ^
+Entity: line 135: parser error : Opening and ending tag mismatch: tr line 71 and html
+</html>
+       ^
+Entity: line 136: parser error : Premature end of data in tag table line 70
+
+^
+Entity: line 136: parser error : Premature end of data in tag td line 69
+
+^
+Entity: line 136: parser error : Premature end of data in tag tr line 68
+
+^
+Entity: line 136: parser error : Premature end of data in tag td line 65
+
+^
+Entity: line 136: parser error : Premature end of data in tag tr line 64
+
+^
+Entity: line 136: parser error : Premature end of data in tag table line 63
+
+^
+Entity: line 136: parser error : Premature end of data in tag input line 55
+
+^
+Entity: line 136: parser error : Premature end of data in tag input line 54
+
+^
+Entity: line 136: parser error : Premature end of data in tag input line 53
+
+^
+Entity: line 136: parser error : Premature end of data in tag tr line 46
+
+^
+Entity: line 136: parser error : Premature end of data in tag td line 41
+
+^
+Entity: line 136: parser error : Premature end of data in tag td line 40
+
+^
+Entity: line 136: parser error : Premature end of data in tag td line 39
+
+^
+Entity: line 136: parser error : Premature end of data in tag tr line 38
+
+^
+Entity: line 136: parser error : Premature end of data in tag form line 37
+
+^
+Entity: line 136: parser error : Premature end of data in tag table line 36
+
+^
+Entity: line 136: parser error : Premature end of data in tag td line 35
+
+^
+Entity: line 136: parser error : Premature end of data in tag tr line 34
+
+^
+Entity: line 136: parser error : Premature end of data in tag tr line 31
+
+^
+Entity: line 136: parser error : Premature end of data in tag td line 28
+
+^
+Entity: line 136: parser error : Premature end of data in tag td line 27
+
+^
+Entity: line 136: parser error : Premature end of data in tag td line 26
+
+^
+Entity: line 136: parser error : Premature end of data in tag td line 25
+
+^
+Entity: line 136: parser error : Premature end of data in tag td line 24
+
+^
+Entity: line 136: parser error : Premature end of data in tag td line 23
+
+^
+Entity: line 136: parser error : Premature end of data in tag td line 22
+
+^
+Entity: line 136: parser error : Premature end of data in tag tr line 21
+
+^
+Entity: line 136: parser error : Premature end of data in tag tr line 18
+
+^
+Entity: line 136: parser error : Premature end of data in tag tr line 15
+
+^
+Entity: line 136: parser error : Premature end of data in tag tr line 12
+
+^
+Entity: line 136: parser error : Premature end of data in tag table line 11
+
+^
+Entity: line 136: parser error : Premature end of data in tag div line 10
+
+^
+Entity: line 136: parser error : Premature end of data in tag body line 9
+
+^
+Entity: line 136: parser error : Premature end of data in tag html line 2
+
+^
+ at AnanovaXMLTV.pm line 214
+]
+The content follows.
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Ananova TV Listings</title>
+<script language="JavaScript1.1" type="text/javascript">
+</script>
+<link rel="stylesheet" href="/styles/generic.css" type="text/css" media="all" />
+</head>
+<body bgcolor="#ffffff">
+<div align="center">
+<table width="600" cellpadding="0" cellspacing="0" border="0">
+<tr>
+    <td colspan="8"><img src="/images/blank.gif" width="1" height="15" border="0" alt=""></td>
+</tr>
+<tr>
+    <td align="left" colspan="8"><a href="/"><img src="/images/lite_brand_header.gif" width="206" height="38" border="0" alt="Ananova"></a></td>
+</tr>
+<tr>
+    <td colspan="8"><img src="/images/blank.gif" width="1" height="10" border="0" alt=""></td>
+</tr>
+<tr>
+    <td align="left" valign="top"><a href="/"><img src="/images/lite_home_off.gif" width="57" height="18" border="0" alt="Home"></a></td>
+    <td align="left" valign="top"><a href="/news/"><img src="/images/lite_news_off.gif" width="54" height="18" border="0" alt="News"></a></td>
+    <td align="left" valign="top"><a href="/entertainment/"><img src="/images/lite_ents_off.gif" width="105" height="18" border="0" alt="Entertainment"></a></td>
+    <td align="left" valign="top"><a href="/sport/"><img src="/images/lite_sport_off.gif" width="56" height="18" border="0" alt="Sport"></a></td>
+    <td align="left" valign="top"><a href="/business/"><img src="/images/lite_business_off.gif" width="77" height="18" border="0" alt="Business"></a></td>
+    <td align="left" valign="top"><a href="/video/"><img src="/images/lite_video_off.gif" width="104" height="18" border="0" alt="Video Reports"></a></td>
+    <td align="left" valign="top"><a href="/weather/"><img src="/images/lite_weather_off.gif" width="71" height="18" border="0" alt="Weather"></a></td>
+    <td align="left" valign="top"><a href="/tv/"><img src="/images/lite_tv_on.gif" width="76" height="18" border="0" alt="TV Guide"></a></td>
+</tr>
+<tr>
+    <td colspan="8" class="lightgrey-panel"><img src="/images/blank.gif" width="1" height="3" border="0" alt=""></td>
+</tr>
+<tr>
+<td colspan="8">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<form method="post" action="/search/index.html" name="form">
+<tr>
+    <td class="lightgrey-panel"><img src="/images/blank.gif" width="5" height="1" border="0" alt=""></td>
+    <td class="lightgrey-panel"><img src="/images/analite_search.gif" width="91" height="21" border="0" alt="News search"></td>
+    <td class="lightgrey-panel">
+	   <small><input name="QUERY00" value="" size="35">&nbsp;&nbsp;</small>
+	   <input type="image" src="/images/search/go_button_search.gif" width="32" height="20" name="CMD=search.run" alt="Search" border="0" align="absmiddle">
+	</td>
+</tr>
+<tr>
+    <td colspan="3" class="lightgrey-panel"><img src="/images/blank.gif" width="1" height="3" border="0" alt=""></td>
+</tr>
+<tr>
+    <td colspan="3"><img src="/images/blank.gif" width="1" height="10" border="0" alt=""></td>
+</tr>
+</table>
+<input type="hidden" name="THRESHOLD" value="60">
+<input type="hidden" name="B" value="">
+<input type="hidden" name="nav_src" value="LeftColSearchUsed">
+<input type="hidden" name="ORGANISE_CODED" value="R:date">
+<input type="hidden" name="DAYSMINUS" value="30">
+<input type="hidden" name="SAVEDB" value="ananova">
+</form>
+</td>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" width="600">
+  <tr>
+    <td><img src="/images/blank.gif" alt="" border="0" width="190" height="1"></td>
+    <td><img src="/images/blank.gif" alt="" border="0" width="410" height="1"></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <table cellpadding="0" cellspacing="0" border="0" width="190">
+        <tr>
+          <td><img src="/images/blank.gif" border="0" alt="" height="1" width="150"></td>
+          <td><img src="/images/blank.gif" border="0" alt="" height="1" width="15"></td>
+          <td><img src="/images/blank.gif" border="0" alt="" height="1" width="1"></td>
+          <td><img src="/images/blank.gif" border="0" alt="" height="1" width="24"></td>
+        </tr>
+        <tr>
+          <td align="right"><small></small>
+          	  </td>
+          <td width="15"><img src="/images/blank.gif" alt="" border="0" width="15" height="1"></td>
+          <td width="1"><img src="/images/blank.gif" width="1" height="1" alt="" border="0"></td>
+          <td width="24"><img src="/images/blank.gif" border="0" alt="" width="24" height="1"></td>
+        </tr>
+      </table>
+    </td>
+    <td align="left" valign="top">
+
+    <p><strong>Get TV listings on the move</strong><br />
+    <small>Sorry, but Ananova is no longer able to bring you TV listings.<br />
+    However, you can get a complete seven-day listings guide for terrestrial and satellite TV provided by Radio Times <a href="http://web.orange.co.uk/yourorange/allaboutwap/promo.html?id=Wapguide_TV&amp;menu=yourorange.allaboutwap.tvguide">on your Orange phone</a>.<br />
+    With Orange World you can also keep up with the latest TV news and gossip, buy videos and DVDs of top TV shows and download the ringtone of your favourite theme tune.</small></p>
+
+    </td>
+  </tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="600" summary="Ananova sections">
+<tr>
+	<td><img src="/images/blank.gif" width="1" height="20" alt="" border="0" /></td>
+</tr>
+<tr>
+	<td><img src="/images/grayline.gif" width="600" height="1" alt="" border="0" /></td>
+</tr>
+<tr>
+	<td><img src="/images/blank.gif" width="1" height="5" alt="" border="0" /></td>
+</tr>
+<tr>
+	<td align="left">
+		<small>
+		<a href="/" title="Home">Home</a> - 
+		<a href="/news/" title="News">News</a> - 
+		<a href="/entertainment/" title="Entertainment">Entertainment</a> - 
+		<a href="/sport/" title="Sport">Sport</a> - 
+		<a href="/business/" title="Business">Business</a> - 
+		<a href="/video/" title="Video Reports">Video Reports</a> - 
+		<a href="/weather/" title="Weather">Weather</a> - 
+		<a href="/tv/" title="TV Guide">TV Guide</a>
+		</small>
+	</td>
+</tr>
+<tr>
+        <td align="left">
+		<small>Copyright &copy; 2004 Ananova Ltd
+        	<br /><a href="/about/terms.html" title="Copyright details">Terms and conditions of use</a> - 
+		<a href="/about/privacy.html" title="Privacy policy">Privacy policy</a> - 
+		<a href="/about/story/sm_289307.html?menu=" title="Corrections">Corrections</a> -
+		<a href="/feedback/" title="Contact Ananova">Contact Ananova</a> -
+		<a href="/about/story/sm_589259.html" title="About Ananova">About Ananova</a>
+		</small>
+	</td>
+</tr>
+</table>
+
+</div>
+</body>
+</html>

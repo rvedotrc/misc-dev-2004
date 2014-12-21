@@ -1,0 +1,245 @@
+1	BBC1 (Northern Ireland)
+2	BBC1 (Scotland)
+3	BBC1 (Wales)
+4	BBC1
+8	Radio 3
+9	BBC1 (East)
+10	BBC1 (East Midlands)
+11	BBC1 (Midlands)
+12	BBC1 (North)
+13	BBC1 (North East)
+14	BBC1 (North West)
+15	BBC1 (South)
+16	BBC1 (South East)
+17	BBC1 (South West)
+18	BBC1 (West)
+19	BBC2 (Northern Ireland)
+20	BBC2 (Scotland)
+21	BBC2 (Wales)
+22	BBC2 (East)
+23	BBC2 (East Midlands)
+24	BBC2 (Midlands)
+25	BBC2 (North)
+26	BBC2 (North East)
+27	BBC2 (North West)
+29	BBC2 (South)
+30	BBC2 (South East)
+31	BBC2 (South West)
+32	BBC2 (West)
+33	Radio 4 (FM)
+34	Radio 4 (LW)
+35	ITV1 (ITV1 Granada)
+36	ITV1 (ITV1 YTV)
+37	ITV1 (ITV1 Tyne Tees)
+38	ITV1 (ITV1 Border South)
+39	ITV1 (Ulster)
+40	ITV1 (Scottish)
+41	ITV1 (Grampian)
+42	ITV1 (ITV1 Meridian)
+43	ITV1 (ITV1 Anglia)
+44	ITV1 (ITV1 Channel)
+45	ITV1 (ITV1 Wales)
+46	ITV1 (ITV1 West)
+47	ITV1 (ITV1 Carlton-Central)
+48	ITV1 (ITV1 Carlton-Westcountry)
+49	ITV1 (ITV1 London)
+50	Sky Movies 1
+52	BBC2
+53	Channel 4
+54	five
+55	The Adult Channel
+56	BBC Parliament
+58	BET International
+59	MTV Hits
+60	QVC
+62	Multi Channel
+63	MTV Base
+64	MTV
+66	travelchannel
+67	TV5
+68	Sky Movies 2
+69	Sky Movies 4
+70	Sky Movies 6
+71	Zee TV
+73	CNE
+74	UKG2
+76	S4C
+77	Radio 1
+78	Radio 1 (Scotland)
+79	Radio 1 (Ireland)
+80	Radio 1 (Wales)
+81	RTE1
+82	Network 2
+83	TG4
+84	TV3
+85	BBC News 24
+86	Radio 2
+87	Radio 5 Live
+89	UK Style
+90	Sky Box Office Digital
+91	Asianet
+92	Bloomberg TV
+93	The Box
+95	CNN
+99	The God Channel
+100	Hellenic
+101	The Landscape Channel
+102	Cartoon Network
+103	Playboy TV
+104	WebCam
+107	Adventure 1
+109	Discovery Kids
+110	Plus
+112	UK Horizons
+114	Sky News
+119	Men and Motors
+120	MTV2
+121	Shop America
+122	LivingTV
+123	TVE Internacional
+124	Sky Movies 8
+125	Sky Movies 3
+128	Discovery Civilisations
+129	Discovery Science
+130	Discovery Travel and Adventure
+133	National Geographic (Europe)
+134	UK Gold
+136	The Disney Channel
+138	BBC World
+139	Television X
+140	Performance
+141	Rai Uno
+143	Sky Movies 5
+144	Sky Movies 7
+145	Sky Movies 9
+150	VH1
+151	VH1 Classic
+153	Discovery Wings
+154	UK Drama
+155	Hallmark Entertainment
+161	Sci-fi
+166	Bravo
+168	Animal Planet
+169	Discovery
+170	Challenge?
+171	History
+172	Sky Travel
+174	Sky Cinema 2/Sky Movies Cinema 2
+177	National Geographic
+178	Sky Cinema 1/Sky Movies Cinema
+183	Performance (Digital)
+184	Discovery Home and Leisure
+185	Paramount Comedy
+186	Sony Entertainment TV Asia
+187	TCM (Digital)
+188	Nickelodeon
+190	Fox Kids
+192	CNBC Europe
+194	Trouble
+195	Nickelodeon Jr
+197	Oxford Channel
+200	Health
+203	Simply Shopping
+204	Music Choice Blues
+205	Music Choice Classical
+206	Music Choice Country
+207	Music Choice Dance
+208	Music Choice Easy Listening
+209	Music Choice Gold
+210	Music Choice Hits
+211	Music Choice Jazz
+212	Music Choice Love
+213	Music Choice Rock
+214	Front Row Digital
+215	Boomerang
+216	QVC1
+217	GBC
+218	BBC Prime
+219	TV Travel Shop
+220	FilmFour
+221	Sat 1
+222	Sky One
+225	Red Hot Only 18
+227	Discovery Health
+228	Classic FM
+229	MUTV
+231	Sky Sports News
+232	Radio Scotland (FM)
+274	Eurosport
+275	Eurosport (British Eurosport)
+331	GMTV Kids
+410	Kiss
+411	Music Choice Europe
+412	BBC1 (Digital)
+413	BBC1 (Scotland Digital)
+414	BBC1 (Northern Ireland Digital)
+415	BBC1 (Wales Digital)
+417	Toon Disney
+418	Playhouse Disney
+420	BBC2 (Digital)
+422	TV Travel Shop 2
+431	Sky Sports 1
+433	Sky Sports 2
+435	Sky Sports 3
+437	Sky Sports Xtra
+451	ITV2
+474	The Biography Channel
+485	bid-up.tv
+602	Artsworld
+605	E4
+612	Asia 1
+613	Bangla TV
+614	EuroNews
+615	Screenshop
+616	ITV News Channel
+617	The Pakistani Channel
+619	B4U Movies
+622	Radio Scotland (MW)
+631	Radio Ulster
+632	Radio Ulster (Radio Foyle)
+633	Radio Wales
+634	Radio Cymru
+635	Radio Aberdeen
+636	Radio Highland
+637	Radio Orkney
+638	Radio Shetland
+639	Radio Solway
+640	Radio Tweed
+641	Radio nan Gaidheal
+644	Red Hot Amateur
+645	S4C (Digital)
+658	S4C2
+659	BBC2 (Northern Ireland Digital)
+660	BBC2 (Scotland Digital)
+661	BBC2 (Wales Digital)
+663	Extreme Sports
+664	MTV Dance
+678	Star Plus
+682	Fashion TV
+691	Teleg
+696	Channel 9
+698	ITV1 (ITV1 Border North)
+700	Animal Planet (Plus 1)
+701	Discovery Home and Leisure (Plus 1)
+702	History (Plus 1)
+703	Nickelodeon (Replay)
+704	UK Horizons (Plus 1)
+705	Cartoon Network (Plus 1)
+706	Discovery (Plus 1)
+707	The Disney Channel (Plus 1)
+708	FilmFour (Plus 1)
+709	Fox Kids (Plus 1)
+710	National Geographic (Plus 1)
+713	BBC1 (London)
+722	UK Food
+723	Red Hot All Girl
+724	BBC2 (London)
+733	CBBC
+734	CBeebies
+738	TV Travel Shop (Freeview)
+742	BBC4
+744	6 Music
+745	Radio 5 Live Extra
+932	BBC7
+935	BBC3
+953	FilmFour (Weekly)

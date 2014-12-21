@@ -1,0 +1,2757 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE tv SYSTEM "xmltv_ananova.dtd">
+<!-- 
+# Copyright © 2001 Ananova Ltd 
+# www.ananova.com
+# For terms and conditions of use please see 
+# http://www.ananova.com/about/terms.html
+--><!-- DAY: day1 C: 4.52.49.75.53.54 -->
+<tv generator-info-name="Maria Listings Generator" generator-info-url="/tv_listings/_xmltv.php" source-info-url="http://www.ananova.com/tv_listings/">
+<channel id="4">
+<display-name lang="en">BBC1</display-name>
+<icon src="http://www.ananova.com/tv_listings/images/logos/logo-4.gif" />
+</channel>
+<channel id="52">
+<display-name lang="en">BBC2</display-name>
+<icon src="http://www.ananova.com/tv_listings/images/logos/logo-52.gif" />
+</channel>
+<channel id="49">
+<display-name lang="en">ITV1 (ITV1 London)</display-name>
+<icon src="http://www.ananova.com/tv_listings/images/logos/logo-49.gif" />
+</channel>
+<channel id="53">
+<display-name lang="en">Channel 4</display-name>
+<icon src="http://www.ananova.com/tv_listings/images/logos/logo-53.gif" />
+</channel>
+<channel id="54">
+<display-name lang="en">five</display-name>
+<icon src="http://www.ananova.com/tv_listings/images/logos/logo-54.gif" />
+</channel>
+<programme start="20040112055500 GMT" stop="20040112060000 GMT" channel="49" x-broadcast="26751587" x-programme="108767503">
+<title lang="en">ITV Morning News</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112060000 GMT" stop="20040112093000 GMT" channel="4" x-broadcast="26734827" x-programme="108762442">
+<title lang="en">Breakfast</title>
+<desc lang="en">Round-up of national and international news, plus the latest from the money markets</desc>
+<desc lang="en">National and international news, plus the latest from the money markets</desc>
+<desc lang="en">Headlines and business news</desc>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112060000 GMT" stop="20040112063000 GMT" channel="54" x-broadcast="26751590" x-programme="108767505">
+<title lang="en">Sunrise</title>
+<desc lang="en">Round-up of national and international news, presented by Simon McCoy and Emma Crosby</desc>
+<desc lang="en">National and international news, with Simon McCoy and Emma Crosby</desc>
+<desc lang="en">Breakfast news</desc>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112060000 GMT" stop="20040112062000 GMT" channel="52" x-broadcast="26772834" x-programme="527148">
+<title lang="en">Fimbles</title>
+<sub-title lang="en">Skipping Rope</sub-title>
+<desc lang="en">Fimbo finds a skipping rope, and soon learns using it isn't as easy as it looks -- but the item comes in handy when Florrie and Pom have trouble moving the Trundle Truck</desc>
+<desc lang="en">Fimbo finds a skipping rope, and soon learns using it isn't as easy as it looks</desc>
+<desc lang="en">The pals have fun skipping</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112060000 GMT" stop="20040112061000 GMT" channel="53" x-broadcast="26799237" x-programme="463592">
+<title lang="en">Grabbit the Rabbit</title>
+<desc lang="en">The frogs get wise to Ralph the racoon, who tries to grab them to feed his family</desc>
+<desc lang="en">The frogs get wise to Ralph the racoon's antics</desc>
+<desc lang="en">The frogs get wise</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112061000 GMT" stop="20040112063500 GMT" channel="53" x-broadcast="26751608" x-programme="425450">
+<title lang="en">The Hoobs</title>
+<sub-title lang="en">The Big Bonk</sub-title>
+<desc lang="en">Hubba Hubba goes missing, but the friends think a noise on the roof might hold the key to his whereabouts</desc>
+<desc lang="en">The friends think a noise on the roof might hold the key to Hubba Hubba's whereabouts</desc>
+<desc lang="en">Hubba Hubba goes missing</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112062000 GMT" stop="20040112064500 GMT" channel="52" x-broadcast="26734856" x-programme="195898">
+<title lang="en">Teletubbies</title>
+<sub-title lang="en">Painting Swings</sub-title>
+<desc lang="en">The four friends watch children painting pictures. A book appears, and something magical happens when Dipsy turns the pages</desc>
+<desc lang="en">The four friends watch children painting pictures, and a book magically appears</desc>
+<desc lang="en">A book appears in Teletubbyland</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112063000 GMT" stop="20040112064000 GMT" channel="54" x-broadcast="26751609" x-programme="494041">
+<title lang="en">The Save-Ums!</title>
+<sub-title lang="en">Wash That Dirty Dino!</sub-title>
+<desc lang="en">Baby Dino gets himself filthy while playing in the mud</desc>
+<desc lang="en">Baby Dino has fun playing in the mud</desc>
+<desc lang="en">Baby Dino plays in the mud</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112063500 GMT" stop="20040112070000 GMT" channel="53" x-broadcast="26751610" x-programme="425452">
+<title lang="en">The Hoobs</title>
+<sub-title lang="en">Bossy Boots</sub-title>
+<desc lang="en">Groove and Tula take charge of the Motorettes to give Iver a rest</desc>
+<desc lang="en">Groove and Tula take charge of the Motorettes</desc>
+<desc lang="en">Groove and Tula take charge</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112064000 GMT" stop="20040112065500 GMT" channel="54" x-broadcast="26751611" x-programme="494046">
+<title lang="en">The Save-Ums!</title>
+<sub-title lang="en">Save That Fish!</sub-title>
+<desc lang="en">Maude needs a water tank to make a new home</desc>
+<desc lang="en">Maude needs a new water tank</desc>
+<desc lang="en">Maude needs a water tank</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112064500 GMT" stop="20040112070000 GMT" channel="52" x-broadcast="26787155" x-programme="436157">
+<title lang="en">Clifford</title>
+<sub-title lang="en">Jetta's Project</sub-title>
+<desc lang="en">Jetta jeopardises her friendship with Charley and Emily when she strives to win a model-building contest -- but soon learns the importance of treating friends with respect</desc>
+<desc lang="en">Jetta's desire to win a model-building contest sees her exploit her friendship with Charley and Emily</desc>
+<desc lang="en">Jetta enters a model-building contest</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112065500 GMT" stop="20040112073000 GMT" channel="54" x-broadcast="26751613" x-programme="469230">
+<title lang="en">Hi-5</title>
+<sub-title lang="en">Personal Energy</sub-title>
+<desc lang="en">Nathan builds a boat, which Tim and Kathleen help paddle</desc>
+<desc lang="en">Tim and Kathleen help Nathan with his new boat</desc>
+<desc lang="en">Nathan builds a boat</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112070000 GMT" stop="20040112073000 GMT" channel="53" x-broadcast="26751631" x-programme="108767516">
+<title lang="en">The Salon</title>
+<desc lang="en">Further drama and behind-the-scenes gossip at the hair and beauty studio, based in the Trocadero Centre in London's West End, as guests drop in to share stories while they have their treatments</desc>
+<desc lang="en">Further drama and behind-the-scenes gossip at the hair and beauty studio based in the Trocadero Centre in London's West End</desc>
+<desc lang="en">The latest from the hair and beauty studio</desc>
+<category lang="en" x-code="3000">General Show/Game Show</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112070000 GMT" stop="20040112072500 GMT" channel="52" x-broadcast="26772888" x-programme="552266">
+<title lang="en">Blue Peter</title>
+<desc lang="en">Matt Baker takes up the challenge of appearing in skating show Holiday on Ice, while Konnie Huq, Simon Thomas and Liz Barker introduce topical issues from around the world</desc>
+<desc lang="en">Matt Baker takes up the challenge of appearing in an ice-skating show</desc>
+<desc lang="en">Matt Baker takes to the ice</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112072500 GMT" stop="20040112075000 GMT" channel="52" x-broadcast="26772925" x-programme="108780199">
+<title lang="en">Legacy of the Silver Shadow</title>
+<sub-title lang="en">The Feral Element</sub-title>
+<desc lang="en">The team are given their first mission, but rather than facing a criminal genius they must track down and defeat a mere bicycle theft ring. However, even fighting petty crime proves something of a challenge</desc>
+<desc lang="en">The team must stop a bicycle theft ring -- but learn that even fighting petty crime is harder than it looks</desc>
+<desc lang="en">The team must stop a bicycle theft ring</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<episode-num system="xmltv_ns">.1.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112073000 GMT" stop="20040112074500 GMT" channel="54" x-broadcast="26751633" x-programme="380307">
+<title lang="en">Oswald</title>
+<sub-title lang="en">The Stopped Clock</sub-title>
+<desc lang="en">Weenie and Oswald oversleep -- but soon discover everyone else in Big City has woken up late too</desc>
+<desc lang="en">Weenie and Oswald discover everyone in Big City has overslept</desc>
+<desc lang="en">Everyone oversleeps</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112073000 GMT" stop="20040112080000 GMT" channel="53" x-broadcast="26774259" x-programme="57147">
+<title lang="en">Friends</title>
+<sub-title lang="en">The One with the Butt</sub-title>
+<desc lang="en">Chandler indulges in an affair with a married woman, Ross attempts to liven up his conservative image and Joey lands a film role with a difference -- as a stand-in for Al Pacino's naked backside. Comedy, starring Matthew Perry and Matt LeBlanc</desc>
+<desc lang="en">Chandler indulges in an affair with a married woman and Joey lands a film role with a difference. Comedy, starring Matthew Perry</desc>
+<desc lang="en">Chandler has an illicit affair</desc>
+<category lang="en" x-code="1400">Comedy</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<episode-num system="xmltv_ns">.5/24.</episode-num>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112074500 GMT" stop="20040112080000 GMT" channel="54" x-broadcast="26751635" x-programme="391164">
+<title lang="en">Make Way for Noddy</title>
+<sub-title lang="en">The Flower Thief</sub-title>
+<desc lang="en">The little wooden boy wants to present Tessie Bear with a bunch of flowers, but they keep disappearing -- could Bumpy Dog be responsible?</desc>
+<desc lang="en">The little wooden boy wants to present Tessie Bear with a bunch of flowers, but they keep disappearing</desc>
+<desc lang="en">A flower thief strikes</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112075000 GMT" stop="20040112081000 GMT" channel="52" x-broadcast="26734894" x-programme="538660">
+<title lang="en">ChuckleVision</title>
+<sub-title lang="en">Paint Drips</sub-title>
+<desc lang="en">Paul and Barry cause all kinds of trouble when they give the library a lick of paint</desc>
+<desc lang="en">Paul and Barry cause chaos when they paint the library</desc>
+<desc lang="en">Paul and Barry paint the library</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112080000 GMT" stop="20040112083000 GMT" channel="54" x-broadcast="26751636" x-programme="108767521">
+<title lang="en">The Book of Pooh</title>
+<sub-title lang="en">Where the Heffalumps Roam/Stopwatch</sub-title>
+<desc lang="en">Piglet wonders what Heffalumps look like and Owl lends Pooh his watch</desc>
+<desc lang="en">Piglet learns about Heffalumps and Owl lends Pooh his watch</desc>
+<desc lang="en">Owl lends Pooh his watch</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112080000 GMT" stop="20040112083000 GMT" channel="53" x-broadcast="26751638" x-programme="64140">
+<title lang="en">Everybody Loves Raymond</title>
+<sub-title lang="en">Your Place or Mine?</sub-title>
+<desc lang="en">Marie moves in with Ray and Debra when she leaves Frank after 40 years of marriage. Debra isn't happy about the arrangement, and tries to get the couple back together -- but Frank is enjoying being single again a little too much</desc>
+<desc lang="en">Marie moves in with Ray and Debra when she leaves Frank after 40 years of marriage</desc>
+<desc lang="en">Marie leaves Frank</desc>
+<category lang="en" x-code="1400">Comedy</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112081000 GMT" stop="20040112082500 GMT" channel="52" x-broadcast="26734913" x-programme="554613">
+<title lang="en">Arthur</title>
+<sub-title lang="en">The Great Sock Mystery</sub-title>
+<desc lang="en">Baby Kate and Pal try to find out where all the socks that go missing from the laundry basket end up</desc>
+<desc lang="en">Baby Kate and Pal try to find out where all the lost socks go to</desc>
+<desc lang="en">Baby Kate and Pal search for missing socks</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112082500 GMT" stop="20040112083000 GMT" channel="52" x-broadcast="26734932" x-programme="108762447">
+<title lang="en">Newsround</title>
+<desc lang="en">Current affairs reports aimed at a younger audience</desc>
+<desc lang="en">Current affairs reports for children</desc>
+<desc lang="en">Current affairs reports</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112083000 GMT" stop="20040112085000 GMT" channel="52" x-broadcast="26734951" x-programme="290068">
+<title lang="en">Tweenies</title>
+<sub-title lang="en">Cranes</sub-title>
+<desc lang="en">Max finds the pals very helpful when they become cranes for the day</desc>
+<desc lang="en">The pals become cranes for the day</desc>
+<desc lang="en">The pals pretend to be cranes</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<episode-num system="xmltv_ns">.315.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112083000 GMT" stop="20040112085500 GMT" channel="54" x-broadcast="26751640" x-programme="108767525">
+<title lang="en">A House That's Just Like Yours</title>
+<desc lang="en">Children's fun with the puppet mice</desc>
+<desc lang="en">Fun with the puppet mice</desc>
+<desc lang="en">Puppet fun</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112083000 GMT" stop="20040112090000 GMT" channel="53" x-broadcast="26751659" x-programme="108767529">
+<title lang="en">Bewitched</title>
+<desc lang="en">Spell-casting comedy, starring Elizabeth Montgomery as nose-twitching suburban witch Samantha</desc>
+<desc lang="en">Spell-casting comedy, starring Elizabeth Montgomery</desc>
+<desc lang="en">Spell-casting comedy</desc>
+<category lang="en" x-code="1400">Comedy</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112085000 GMT" stop="20040112090000 GMT" channel="52" x-broadcast="26734972" x-programme="131719">
+<title lang="en">Bob the Builder</title>
+<sub-title lang="en">Bob's Bugle</sub-title>
+<desc lang="en">The friendly workman makes a trumpet out of old pipes -- but his attempts to play it are less than successful</desc>
+<desc lang="en">The friendly workman makes a trumpet out of old pipes</desc>
+<desc lang="en">The friendly workman makes a trumpet</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112085500 GMT" stop="20040112091000 GMT" channel="54" x-broadcast="26751660" x-programme="553316">
+<title lang="en">Dig and Dug</title>
+<sub-title lang="en">Cement Pudding</sub-title>
+<desc lang="en">The hapless duo try to dig some foundations but manage to lose the building plans</desc>
+<desc lang="en">The duo try to dig some foundations but lose the building plans</desc>
+<desc lang="en">The duo dig some foundations</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112090000 GMT" stop="20040112092000 GMT" channel="52" x-broadcast="26745161" x-programme="386972">
+<title lang="en">The Shiny Show</title>
+<sub-title lang="en">Pottery</sub-title>
+<desc lang="en">Mukka the monkey is the quizmaster as the gang find out about pottery and have a go at making some</desc>
+<desc lang="en">Mukka asks questions about pottery and the gang have a go at making some</desc>
+<desc lang="en">The gang learn how to make pottery</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<episode-num system="xmltv_ns">.5.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112090000 GMT" stop="20040112093000 GMT" channel="53" x-broadcast="26774284" x-programme="108781002">
+<title lang="en">Beat the Nation</title>
+<desc lang="en">Quiz show, hosted by Graeme Garden and Tim Brooke-Taylor, in which the answers to difficult questions are rewarded with more points, and round two sees contestants pitted against celebrities and academics in a general knowledge challenge</desc>
+<desc lang="en">Quiz show, hosted by Graeme Garden and Tim Brooke-Taylor, in which the answers to difficult questions are rewarded with more points</desc>
+<desc lang="en">Quiz show</desc>
+<category lang="en" x-code="3100">Game Show/Quiz</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112091000 GMT" stop="20040112092500 GMT" channel="54" x-broadcast="26751661" x-programme="419727">
+<title lang="en">Elmo's World</title>
+<sub-title lang="en">Food</sub-title>
+<desc lang="en">The little red monster learns about different kinds of food from all over the world</desc>
+<desc lang="en">The monster learns about different kinds of food all over the world</desc>
+<desc lang="en">Various kinds of food</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112092000 GMT" stop="20040112093000 GMT" channel="52" x-broadcast="26735010" x-programme="554565">
+<title lang="en">Little Red Tractor</title>
+<sub-title lang="en">The Ladder</sub-title>
+<desc lang="en">A storm leaves the farm in disarray, so Stumpy goes up on the roof to fix some broken tiles. Unfortunately, while he's up there, Mr Jones pops round to borrow the ladder, leaving him stranded, just as it starts to rain</desc>
+<desc lang="en">Mr Jones borrows Stan's ladder without asking -- while Stumpy is still on the roof</desc>
+<desc lang="en">Stumpy gets stuck on the roof</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112092500 GMT" stop="20040112103000 GMT" channel="49" x-broadcast="26751677" x-programme="108767533">
+<title lang="en">Trisha</title>
+<desc lang="en">Guests relate their stories in front of a studio audience, as Trisha Goddard presides</desc>
+<desc lang="en">Guests relate their stories in front of a studio audience</desc>
+<desc lang="en">Studio discussion</desc>
+<category lang="en" x-code="3300">Talk Show</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112092500 GMT" stop="20040112100000 GMT" channel="54" x-broadcast="26776972" x-programme="108783219">
+<title lang="en">House Doctor</title>
+<desc lang="en">Property expert Ann Maurice offers advice to would-be sellers</desc>
+<desc lang="en">Home improvement tips, with Ann Maurice</desc>
+<desc lang="en">Home improvements</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112092945 GMT" stop="20040112093000 GMT" channel="4" x-broadcast="26735246" x-programme="108762496">
+<title lang="en">The National Lottery Daily Play</title>
+<category lang="en" x-code="3000">General Show/Game Show</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112093000 GMT" stop="20040112100000 GMT" channel="52" x-broadcast="26735029" x-programme="509342">
+<title lang="en">Teletubbies</title>
+<sub-title lang="en">My Mum's a Doctor</sub-title>
+<desc lang="en">Po has too much Tubby custard and feels ill, and the four friends watch a little girl whose mum is a doctor</desc>
+<desc lang="en">Po has too much Tubby custard and feels ill</desc>
+<desc lang="en">Po has too much Tubby custard</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112093000 GMT" stop="20040112095500 GMT" channel="53" x-broadcast="26774472" x-programme="552808">
+<title lang="en">Life Stuff</title>
+<sub-title lang="en">Working Week</sub-title>
+<desc lang="en">Documentary focusing on young people's issues</desc>
+<desc lang="en">Young people's issues. (Age 14-19)</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112093000 GMT" stop="20040112100000 GMT" channel="4" x-broadcast="26980180" x-programme="108892781">
+<title lang="en">Garden Invaders</title>
+<desc lang="en">Game show in which contestants battle it out to win horticultural makeovers</desc>
+<desc lang="en">Game show in which contestants play for a garden makeover</desc>
+<desc lang="en">Horticultural game show</desc>
+<category lang="en" x-code="A700">Gardening</category>
+<category lang="en" x-code="A###">Leisure Hobbies</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112095500 GMT" stop="20040112101500 GMT" channel="53" x-broadcast="26774500" x-programme="338300">
+<title lang="en">Scientific Eye</title>
+<sub-title lang="en">Materials and Their Properties 1 -- Rust</sub-title>
+<desc lang="en">Combating rust. (Age 11-14)</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112100000 GMT" stop="20040112102500 GMT" channel="52" x-broadcast="26735048" x-programme="553165">
+<title lang="en">Fimbles</title>
+<sub-title lang="en">Wobbly Board</sub-title>
+<desc lang="en">Florrie finds a wobble board -- but has it got anything to do with the strange noises Pom and Ribble have been hearing in the valley?</desc>
+<desc lang="en">Pom and Ribble hear strange noises and Florrie finds a wobble board</desc>
+<desc lang="en">Pom and Ribble hear strange noises</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112100000 GMT" stop="20040112110000 GMT" channel="54" x-broadcast="26776976" x-programme="108783220">
+<title lang="en">The Wright Stuff</title>
+<desc lang="en">New series. Matthew Wright and his guests discuss the issues of the day</desc>
+<desc lang="en">New series. Matthew Wright discusses the issues of the day</desc>
+<desc lang="en">New series. Topical discussion</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<episode-num system="xmltv_ns">.0.</episode-num>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112100000 GMT" stop="20040112110000 GMT" channel="4" x-broadcast="26800735" x-programme="554311">
+<title lang="en">To Buy or Not to Buy</title>
+<sub-title lang="en">Walmley</sub-title>
+<desc lang="en">New series. Kristian Digby, Sarah Walker and Dominic Littlewood give people the chance to try out new homes by spending time in them before deciding whether to make an offer, while redesigning their old property to make it more appealing to potential buyers</desc>
+<desc lang="en">New series. Kristian Digby, Sarah Walker and Dominic Littlewood give potential buyers the chance to try out new homes before deciding whether to make an offer</desc>
+<desc lang="en">New series. Trying out new homes</desc>
+<category lang="en" x-code="3000">General Show/Game Show</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<episode-num system="xmltv_ns">.0.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112101500 GMT" stop="20040112104000 GMT" channel="53" x-broadcast="26774590" x-programme="289430">
+<title lang="en">The Hoobs</title>
+<sub-title lang="en">Big Loaf</sub-title>
+<desc lang="en">Tula tries to make the biggest-ever Hoobynut loaf -- but first has to gather the nuts</desc>
+<desc lang="en">Tula tries to make the biggest-ever Hoobynut loaf</desc>
+<desc lang="en">Tula makes a huge Hoobynut loaf. (Age 3-5)</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112102445 GMT" stop="20040112102500 GMT" channel="52" x-broadcast="26772986" x-programme="108780210">
+<title lang="en">CBeebies Birthdays</title>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112102500 GMT" stop="20040112105000 GMT" channel="52" x-broadcast="26801074" x-programme="291338">
+<title lang="en">Stingray</title>
+<sub-title lang="en">The Cool Caveman</sub-title>
+<desc lang="en">Troy Tempest can't decide what to wear at a fancy dress party -- but it soon becomes the least of his worries when he's called upon to prevent an underwater radiation leak</desc>
+<desc lang="en">Captain Troy Tempest fights to prevent an underwater radiation leak</desc>
+<desc lang="en">Troy battles a radiation leak</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112103000 GMT" stop="20040112123000 GMT" channel="49" x-broadcast="26751701" x-programme="108767538">
+<title lang="en">This Morning</title>
+<desc lang="en">Charles Worthington profiles great designers, James Whittaker has the lowdown on the latest royal gossip and former Coronation Street actor Brian Capron follows the plight of endangered orang-utans in Borneo. Hosted by Fern Britton and Phillip Schofield. Including news bulletins at 10.50 and 11.55</desc>
+<desc lang="en">Charles Worthington profiles great designers, James Whittaker has the lowdown on the latest royal gossip and actor Brian Capron follows the plight of endangered orang-utans in Borneo</desc>
+<desc lang="en">The plight of endangered orang-utans in Borneo</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112104000 GMT" stop="20040112113000 GMT" channel="53" x-broadcast="26774757" x-programme="545727">
+<title lang="en">Voyage in Space and Time: Royal Institution Christmas Lectures</title>
+<sub-title lang="en">Blast Off</sub-title>
+<desc lang="en">Dr Monica Grady of the Natural History Museum presents a series of talks on current scientific knowledge about the cosmos. The first programme deals with the origins of the universe, examining the hypothetical cosmic explosion 14 billion years ago which is believed to have created all space and time, as well as the birth of the sun from a cloud of dust and gas</desc>
+<desc lang="en">Dr Monica Grady presents a series of scientific talks, beginning with an account of how the sun was formed from a cloud of gas and dust, and the hypothetical cosmic explosion 14 billion years ago believed to have created the universe</desc>
+<desc lang="en">The origins of the universe</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<episode-num system="xmltv_ns">.0/5.</episode-num>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112105000 GMT" stop="20040112111000 GMT" channel="52" x-broadcast="26745180" x-programme="145980">
+<title lang="en">Look and Read</title>
+<sub-title lang="en">Zzaap and the Word Master -- Into the Crystal Caverns</sub-title>
+<desc lang="en">A mysterious world of brain-teasing word clues. (Age 7-9)</desc>
+<desc lang="en">Mystery word clues</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112110000 GMT" stop="20040112113000 GMT" channel="4" x-broadcast="26745685" x-programme="552351">
+<title lang="en">Big Strong Boys</title>
+<sub-title lang="en">Wakefield Fireplace</sub-title>
+<desc lang="en">Jake Robinson and Gavin Lowe give a Wakefield sitting room with no focal point a new look by building a contemporary birch veneer fireplace, with uplighters inside and a blue glass top</desc>
+<desc lang="en">Jake Robinson and Gavin Lowe give a Wakefield living room a new look by building a birch veneer fireplace, with uplighters inside and a blue glass top</desc>
+<desc lang="en">The team build a fireplace</desc>
+<category lang="en" x-code="AF00">DIY</category>
+<category lang="en" x-code="A###">Leisure Hobbies</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112110000 GMT" stop="20040112120000 GMT" channel="54" x-broadcast="26776981" x-programme="108783224">
+<title lang="en">The Terry and Gaby Show</title>
+<desc lang="en">Actor Gary Beadle, who plays Paul Trueman in EastEnders, guests on the daily magazine show, hosted by Terry Wogan and Gaby Roslin. Danny Baker is also in the studio to answer viewers' questions</desc>
+<desc lang="en">Actor Gary Beadle, who plays Paul Trueman in EastEnders, guests on the daily magazine show</desc>
+<desc lang="en">With actor Gary Beadle</desc>
+<category lang="en" x-code="3300">Talk Show</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112111000 GMT" stop="20040112113000 GMT" channel="52" x-broadcast="26745189" x-programme="126152">
+<title lang="en">Megamaths</title>
+<sub-title lang="en">Shape -- Two-Dimensional Shapes</sub-title>
+<desc lang="en">Making a kite from two-dimensional shapes. (Age 7-9)</desc>
+<desc lang="en">Two-dimensional shapes</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112113000 GMT" stop="20040112115000 GMT" channel="52" x-broadcast="26745197" x-programme="176120">
+<title lang="en">English Express</title>
+<sub-title lang="en">Grammar and Writing -- How Can I Describe It to You?</sub-title>
+<desc lang="en">Words and language used to describe things. (Age 9-11)</desc>
+<desc lang="en">Descriptive words</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112113000 GMT" stop="20040112120000 GMT" channel="4" x-broadcast="26771432" x-programme="553791">
+<title lang="en">Trading Up</title>
+<sub-title lang="en">Birchmoor</sub-title>
+<desc lang="en">Designers Colin McAllister and Justin Ryan give a property on the market a new look in a bid to make it more appealing to potential buyers</desc>
+<desc lang="en">Colin McAllister and Justin Ryan make a property more appealing to potential buyers</desc>
+<desc lang="en">Property market guide</desc>
+<category lang="en" x-code="AF00">DIY</category>
+<category lang="en" x-code="A###">Leisure Hobbies</category>
+<episode-num system="xmltv_ns">.25.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112113000 GMT" stop="20040112115500 GMT" channel="53" x-broadcast="26774760" x-programme="108781441">
+<title lang="en">Arrows of Desire</title>
+<desc lang="en">The diversity of English verse. (Age 11-19)</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112115000 GMT" stop="20040112121000 GMT" channel="52" x-broadcast="26745230" x-programme="552338">
+<title lang="en">Around Scotland</title>
+<sub-title lang="en">Citizenship -- Election Day</sub-title>
+<desc lang="en">How democracy works in modern Scotland. (Age 10-12)</desc>
+<desc lang="en">How democracy works</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112115500 GMT" stop="20040112120000 GMT" channel="53" x-broadcast="26774765" x-programme="433032">
+<title lang="en">Tate Modern</title>
+<sub-title lang="en">Distortion</sub-title>
+<desc lang="en">Rodin, Boccioni and Picasso. (Age 14-19)</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112115945 GMT" stop="20040112120000 GMT" channel="4" x-broadcast="26735159" x-programme="108762470">
+<title lang="en">BBC News; Weather</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<category lang="en" x-code="2100">News/Weather Report</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112120000 GMT" stop="20040112123000 GMT" channel="4" x-broadcast="26735077" x-programme="553958">
+<title lang="en">Cash in the Attic</title>
+<sub-title lang="en">Bartholomew</sub-title>
+<desc lang="en">Photography student Rebecca Bartholomew plans to sell off the collectibles she recently inherited from her mother to pay for a new digital camera -- can the team find anything valuable enough to raise the £500 she needs?</desc>
+<desc lang="en">A photography student plans to sell off the collectibles she inherited from her mother to pay for a new camera</desc>
+<desc lang="en">A photography student sells her inheritance</desc>
+<category lang="en" x-code="3000">General Show/Game Show</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112120000 GMT" stop="20040112123000 GMT" channel="54" x-broadcast="26751710" x-programme="108767545">
+<title lang="en">five news at noon</title>
+<desc lang="en">Global headline round-up, with Rob Butler</desc>
+<desc lang="en">Headline round-up, with Rob Butler</desc>
+<desc lang="en">Round-up</desc>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112120000 GMT" stop="20040112123000 GMT" channel="53" x-broadcast="26751711" x-programme="108767546">
+<title lang="en">News at Noon</title>
+<desc lang="en">Daily update, including business news, sport and weather</desc>
+<desc lang="en">Headlines, sport and weather</desc>
+<desc lang="en">Daily update</desc>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112121000 GMT" stop="20040112123000 GMT" channel="52" x-broadcast="26745261" x-programme="552340">
+<title lang="en">Around Scotland</title>
+<sub-title lang="en">Bruce's Scotland -- A Nation Again</sub-title>
+<desc lang="en">The events of 1306 are examined. (Age 10-12)</desc>
+<desc lang="en">The events of 1306</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112123000 GMT" stop="20040112130000 GMT" channel="4" x-broadcast="26735184" x-programme="553853">
+<title lang="en">Passport to the Sun</title>
+<desc lang="en">Elvis impersonator Mike Jones pulls out all the stops to make his daughter's birthday special, Ed and Sally hand over thousands of pounds to complete the bar, but worry about whether they've made the right decision, and rookie estate agent Charlotte has her first appraisal -- without a single sale to her name, is she really cut out for this line of work?</desc>
+<desc lang="en">Elvis impersonator Mike Jones celebrates his daughter's fifth birthday, Ed and Sally hand over thousands of pounds to complete their bar and estate agent Charlotte receives her first appraisal</desc>
+<desc lang="en">Mike Jones celebrates his daughter's birthday</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<episode-num system="xmltv_ns">.5.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112123000 GMT" stop="20040112130000 GMT" channel="52" x-broadcast="26735214" x-programme="108762478">
+<title lang="en">Working Lunch</title>
+<desc lang="en">The latest stories from the business world</desc>
+<desc lang="en">News from the City</desc>
+<desc lang="en">Business news</desc>
+<category lang="en" x-code="8000">General Social/Political Issues/Economics</category>
+<category lang="en" x-code="8###">Social/Political Issues/Economics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112123000 GMT" stop="20040112130000 GMT" channel="49" x-broadcast="26751735" x-programme="108767555">
+<title lang="en">ITV Lunchtime News</title>
+<desc lang="en">Including Local News and ITV Weather</desc>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112123000 GMT" stop="20040112130000 GMT" channel="54" x-broadcast="26776985" x-programme="522060">
+<title lang="en">Home and Away</title>
+<desc lang="en">Colleen is disturbed by the arrival of a woman claiming to be her long-lost daughter and promptly sends her packing, convinced she's a gold-digger -- until Max makes her see sense. Rhys decides to sell the caravan park to Josh, and Leah makes a devastating discovery about Jesse</desc>
+<desc lang="en">Rhys decides to sell the caravan park to Josh, Colleen is disturbed by the arrival of a woman claiming to be her daughter and Leah makes a devastating discovery about Jesse</desc>
+<desc lang="en">Colleen receives an unexpected visitor</desc>
+<category lang="en" x-code="1500">Soap/Melodrama/Folkloric</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<episode-num system="xmltv_ns">.3489.</episode-num>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112123000 GMT" stop="20040112125000 GMT" channel="53" x-broadcast="26797921" x-programme="108797000">
+<title lang="en">Home Movies</title>
+<desc lang="en">Amateur film shorts from the 1940s, capturing key moments from World War Two</desc>
+<desc lang="en">Amateur film shorts from the 1940s</desc>
+<desc lang="en">Amateur film shorts</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112125000 GMT" stop="20040112144500 GMT" channel="53" x-broadcast="26761612" x-programme="226824">
+<title lang="en">Spring and Port Wine</title>
+<desc lang="en">A tyrannically strict Lancashire father brings about the downfall of his family by forcing his daughter to eat a meal against her will. Compelling drama, starring James Mason, Diana Coupland, Susan George and Rodney Bewes</desc>
+<desc lang="en">A Lancashire family are forced to lead a regimented existence under the rule of a very strict father. Compelling drama, starring James Mason and Diana Coupland</desc>
+<desc lang="en">Drama, starring James Mason</desc>
+<date>1970</date>
+<category lang="en" x-code="1000">General Movie/Drama</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<category lang="en" x-code="BF01">Film</category>
+<category lang="en" x-code="B###">Special Characteristics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112125945 GMT" stop="20040112130000 GMT" channel="54" x-broadcast="26777010" x-programme="108783242">
+<title lang="en">five news update</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112130000 GMT" stop="20040112133000 GMT" channel="4" x-broadcast="26735265" x-programme="108762497">
+<title lang="en">BBC News and Weather</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<category lang="en" x-code="2100">News/Weather Report</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112130000 GMT" stop="20040112131500 GMT" channel="52" x-broadcast="26745358" x-programme="298818">
+<title lang="en">Numbertime</title>
+<sub-title lang="en">Time -- Night and Day</sub-title>
+<desc lang="en">Scrap, Glimmer and Annie find out what goes on in the afternoon. (Age 4-6)</desc>
+<desc lang="en">The afternoon</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112130000 GMT" stop="20040112140000 GMT" channel="49" x-broadcast="26764130" x-programme="108774148">
+<title lang="en">Today with Des and Mel</title>
+<desc lang="en">Des O'Connor and Melanie Sykes host another mix of celebrity chat and music</desc>
+<desc lang="en">Des O'Connor and Melanie Sykes host the celebrity chat show</desc>
+<desc lang="en">Celebrity chat</desc>
+<category lang="en" x-code="3300">Talk Show</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112130000 GMT" stop="20040112133000 GMT" channel="54" x-broadcast="26777005" x-programme="550383">
+<title lang="en">Family Affairs</title>
+<desc lang="en">Pete gets ready to skip the country and Mike asks Eileen to run away with him while she's still feeling the pull of the Callan charm. Justin jumps to the wrong conclusion about Kelly's trip to hospital but soon comes round to the idea of imminent fatherhood when he sees the scan pictures, while Nick finds himself celebrating Tanya's unexpected pregnancy in spite of himself</desc>
+<desc lang="en">Pete gets ready to skip the country and Mike asks Eileen to run away with him. Justin jumps to the wrong conclusion about Kelly's trip to hospital but soon comes round to the idea of imminent fatherhood</desc>
+<desc lang="en">Pete prepares to run</desc>
+<category lang="en" x-code="1500">Soap/Melodrama/Folkloric</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112131500 GMT" stop="20040112133000 GMT" channel="52" x-broadcast="26745372" x-programme="432880">
+<title lang="en">Words and Pictures</title>
+<sub-title lang="en">Phonics: Ee</sub-title>
+<desc lang="en">Sophie Aldred visits a vet in Wales, where she finds words with `ee&quot; sounds. (Age 5-7)</desc>
+<desc lang="en">Words with `ee&quot; sounds</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112133000 GMT" stop="20040112134000 GMT" channel="4" x-broadcast="26735284" x-programme="108762498">
+<title lang="en">Regional News; Weather</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<category lang="en" x-code="2100">News/Weather Report</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112133000 GMT" stop="20040112150000 GMT" channel="52" x-broadcast="26760345" x-programme="115600">
+<title lang="en">Trouble in Store</title>
+<desc lang="en">Norman Wisdom stars in this sparky farcical comedy about the misadventures of a naive department store window-dresser as he slowly drives his boss crazy with his hapless buffoonery -- but still finds time for a romantic dalliance. With Margaret Rutherford, Moira Lister, Joan Sims, Jerry Desmonde and Lana Morris</desc>
+<desc lang="en">Norman Wisdom stars in this sparky comedy about the misadventures of a naive department store window-dresser. With Margaret Rutherford</desc>
+<desc lang="en">Comedy, starring Norman Wisdom</desc>
+<date>1953</date>
+<category lang="en" x-code="1400">Comedy</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<category lang="en" x-code="BF01">Film</category>
+<category lang="en" x-code="B###">Special Characteristics</category>
+<video>
+<present>yes</present>
+  <colour>no</colour>
+</video>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112133000 GMT" stop="20040112143500 GMT" channel="54" x-broadcast="26777717" x-programme="420144">
+<title lang="en">BrainTeaser</title>
+<desc lang="en">Interactive game show with four contestants putting their wits to the test in a variety of word games and puzzles in an attempt to win up to £3,000. Viewers at home also get the chance to compete via telephone or e-mail. Presented by Rachel Pierman</desc>
+<desc lang="en">Interactive game show in which four contestants take part in a variety of word games and puzzles in an attempt to win up to £3,000</desc>
+<desc lang="en">Interactive game show</desc>
+<category lang="en" x-code="3100">Game Show/Quiz</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112134000 GMT" stop="20040112140500 GMT" channel="4" x-broadcast="26735303" x-programme="552640">
+<title lang="en">Neighbours</title>
+<desc lang="en">Toadie offers David the use of his office until he's back on his feet, but his problems just go from bad to worse when his car is repossessed and Liljana buys a share in Lou's racehorse. Steph is released from hospital and Joe and Max are determined to do everything for her -- but she feels smothered by their fussing. Sindi asks Toadie out for a drink, but he is convinced she is making another pass at him, and eventually she realises it is impossible to continue working with him</desc>
+<desc lang="en">David's problems go from bad to worse when his car is repossessed and Liljana buys a share in Lou's racehorse, Joe and Max end up smothering Steph in their efforts to take care of her and Sindi resigns when she realises her dreams of being with Toadie are impossible</desc>
+<desc lang="en">David turns to Toadie for help</desc>
+<category lang="en" x-code="1500">Soap/Melodrama/Folkloric</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<episode-num system="xmltv_ns">.4362.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112140000 GMT" stop="20040112143000 GMT" channel="49" x-broadcast="26751829" x-programme="554078">
+<title lang="en">Moving Day</title>
+<desc lang="en">The trials and triumphs of a couple from Middleton-on-Sea in Sussex attempting to move to a property in the village of Warburton</desc>
+<desc lang="en">The trials and triumphs of a couple from Middleton-on-Sea in Sussex attempting to move house</desc>
+<desc lang="en">A Sussex couple move home</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<episode-num system="xmltv_ns">.35.</episode-num>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112140500 GMT" stop="20040112143500 GMT" channel="4" x-broadcast="26735341" x-programme="552343">
+<title lang="en">Doctors</title>
+<sub-title lang="en">Wheels of Destiny</sub-title>
+<desc lang="en">Debbie finds a distraught Faith in tears and a woman determined to show her husband what a bad driver he is embarks on a misguided scheme with disastrous consequences</desc>
+<desc lang="en">Debbie discovers Faith in tears and a woman makes a misguided attempt to help her husband realise he's a bad driver</desc>
+<desc lang="en">Debbie finds Faith in tears</desc>
+<category lang="en" x-code="1000">General Movie/Drama</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112143000 GMT" stop="20040112150000 GMT" channel="49" x-broadcast="26751845" x-programme="554170">
+<title lang="en">Wish You Were Here? Today</title>
+<desc lang="en">Claire Sweeney puts her best foot forward for salsa lessons in Cuba, where she also visits the capital city Havana. Ruth England and a friend sample the Spanish resort of Sitges and Coronation Street actor Malcolm Hebden enjoys the craic in Limerick, Ireland</desc>
+<desc lang="en">Claire Sweeney visits Cuban capital Havana, Ruth England samples the Spanish resort of Sitges and Malcolm Hebden enjoys the craic in Limerick</desc>
+<desc lang="en">Cuba, Spain and Ireland</desc>
+<category lang="en" x-code="A100">Tourism/Travel</category>
+<category lang="en" x-code="A###">Leisure Hobbies</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112143500 GMT" stop="20040112154000 GMT" channel="54" x-broadcast="26777032" x-programme="553333">
+<title lang="en">The Streets of San Francisco</title>
+<sub-title lang="en">Trail of Terror</sub-title>
+<desc lang="en">Steve risks his life to escort a prisoner who is being pursued by a quartet of desperate killers. Crime drama, starring Karl Malden</desc>
+<desc lang="en">Steve escorts a prisoner who is being pursued by a quartet of desperate killers</desc>
+<desc lang="en">Steve escorts a prisoner</desc>
+<category lang="en" x-code="1000">General Movie/Drama</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112143500 GMT" stop="20040112152000 GMT" channel="4" x-broadcast="26787127" x-programme="319991">
+<title lang="en">Father Dowling Mysteries</title>
+<sub-title lang="en">The What Do You Call a Call Girl Mystery</sub-title>
+<desc lang="en">A man's fiancee is murdered just as she is about to confess to being a prostitute, but Father Dowling's investigation is hampered by three powerful former clients determined to avoid being embroiled in a scandal -- not to mention the police, who seem strangely reluctant to pursue the case</desc>
+<desc lang="en">A man's fiancee is murdered just as she is about to confess to being a prostitute -- but Father Dowling's investigation is hampered by three powerful former clients determined to avoid being embroiled in a scandal</desc>
+<desc lang="en">A prostitute is murdered</desc>
+<category lang="en" x-code="1000">General Movie/Drama</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<episode-num system="xmltv_ns">.2.</episode-num>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112144500 GMT" stop="20040112151500 GMT" channel="53" x-broadcast="26776277" x-programme="108782709">
+<title lang="en">Beat the Nation</title>
+<desc lang="en">Quiz show, hosted by Graeme Garden and Tim Brooke-Taylor, in which the answers to difficult questions are rewarded with more points, and round two sees contestants pitted against celebrities and academics in a general knowledge challenge</desc>
+<desc lang="en">Quiz show, hosted by Graeme Garden and Tim Brooke-Taylor, in which the answers to difficult questions are rewarded with more points</desc>
+<desc lang="en">Quiz show</desc>
+<category lang="en" x-code="3100">Game Show/Quiz</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112145945 GMT" stop="20040112150000 GMT" channel="52" x-broadcast="26801939" x-programme="108798910">
+<title lang="en">Hall of Fame</title>
+<desc lang="en">Series profiling some of the silver screen's best-known personalities</desc>
+<desc lang="en">Profiles of well-known celebrities</desc>
+<desc lang="en">Celebrity profiles</desc>
+<category lang="en" x-code="7000">General Arts/Culture</category>
+<category lang="en" x-code="7###">Arts/Culture</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112150000 GMT" stop="20040112151500 GMT" channel="49" x-broadcast="26751848" x-programme="108767592">
+<title lang="en">London Today and Weather</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<category lang="en" x-code="2100">News/Weather Report</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112150000 GMT" stop="20040112153000 GMT" channel="52" x-broadcast="26799295" x-programme="108797678">
+<title lang="en">The Life Laundry</title>
+<sub-title lang="en">Poplar</sub-title>
+<desc lang="en">Ann McSweeney's three-bedroom house in London's docklands has grown steadily more and more cluttered since the birth of her son five years ago. Dawna Walter and Mark Franks step in to get the situation under control and give her some living space back. Ann must argue the case for each of her belongings, and if Mark and Dawna aren't impressed, it goes to a car-boot sale, a charity shop or even into the jaws of a crusher</desc>
+<desc lang="en">Dawna Walter and Mark Franks help sort through the property of a woman whose house has grown steadily more cluttered since her son was born</desc>
+<desc lang="en">A mother living in east London clears out her clutter</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<episode-num system="xmltv_ns">.3.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112151445 GMT" stop="20040112151500 GMT" channel="49" x-broadcast="26751765" x-programme="108767570">
+<title lang="en">Carlton City Survival Guide</title>
+<desc lang="en">Advice and information covering all aspects of life in London and the South East</desc>
+<desc lang="en">Advice and information on life in London and the South East</desc>
+<desc lang="en">Advice and information</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112151500 GMT" stop="20040112160000 GMT" channel="53" x-broadcast="26751878" x-programme="108767618">
+<title lang="en">Countdown</title>
+<desc lang="en">Richard Whiteley and Carol Vorderman present the words-and-numbers game, with Henry Blofeld in Dictionary Corner</desc>
+<desc lang="en">Words-and-numbers game, with Richard Whiteley and Dictionary Corner guest Henry Blofeld</desc>
+<desc lang="en">With Henry Blofeld</desc>
+<category lang="en" x-code="3100">Game Show/Quiz</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112151500 GMT" stop="20040112152000 GMT" channel="49" x-broadcast="26751893" x-programme="552905">
+<title lang="en">Miffy and Friends</title>
+<sub-title lang="en">Miffy and Barbara in the Rain</sub-title>
+<desc lang="en">Animated adventures with the little white rabbit and pals</desc>
+<desc lang="en">Animated adventures with the little white rabbit</desc>
+<desc lang="en">Adventures with the little rabbit</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112152000 GMT" stop="20040112152500 GMT" channel="4" x-broadcast="26735360" x-programme="108762501">
+<title lang="en">BBC News; Regional News and Weather</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<category lang="en" x-code="2100">News/Weather Report</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112152000 GMT" stop="20040112153500 GMT" channel="49" x-broadcast="26751910" x-programme="108767621">
+<title lang="en">Thomas the Tank Engine</title>
+<sub-title lang="en">Edward's Brass Band/What's the Matter with Henry?</sub-title>
+<desc lang="en">Edward is due to take a brass band to their annual concert but has an accident at the last minute, while Thomas and Percy play a trick on Henry, who's not feeling very well</desc>
+<desc lang="en">Edward has an accident just before taking a brass band to their annual concert, while Thomas and Percy play a trick on Henry</desc>
+<desc lang="en">Edward has an accident</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112152500 GMT" stop="20040112153500 GMT" channel="4" x-broadcast="26735379" x-programme="554542">
+<title lang="en">Boo!</title>
+<sub-title lang="en">American Ranch</sub-title>
+<desc lang="en">The gang visit an American ranch, where they sing the sounds song, and Laughing Duck, Growling Tiger and Sleeping Bear meet Neighing Horse, Mooing Cows and Lassoing Cowboy</desc>
+<desc lang="en">The gang visit an American ranch, where they sing the sounds song</desc>
+<desc lang="en">The gang sing the sounds song</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112153000 GMT" stop="20040112163000 GMT" channel="52" x-broadcast="26744942" x-programme="552308">
+<title lang="en">Flog It!</title>
+<sub-title lang="en">Exeter</sub-title>
+<desc lang="en">Paul Martin and the team visit Exeter's Matford Castle, where experts James Lewis and Mark Stacey examine hidden treasures the owners are hoping to sell</desc>
+<desc lang="en">Paul Martin and the team examine hidden treasures at Exeter's Matford Castle</desc>
+<desc lang="en">From Exeter's Matford Castle</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112153500 GMT" stop="20040112154500 GMT" channel="4" x-broadcast="26735398" x-programme="441261">
+<title lang="en">Bob the Builder</title>
+<sub-title lang="en">Trix and the Otters</sub-title>
+<desc lang="en">Molly finds some otters in the stream and Muck discovers his camouflage enables him to watch them undisturbed -- but will Trix scare them off?</desc>
+<desc lang="en">Molly finds some otters in the stream, but Trix scares them off</desc>
+<desc lang="en">Molly finds some otters</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112153500 GMT" stop="20040112160000 GMT" channel="49" x-broadcast="26751926" x-programme="171595">
+<title lang="en">What About Mimi?</title>
+<sub-title lang="en">Get a Job</sub-title>
+<desc lang="en">Jason gets a job, but it's Mimi who ends up doing all the hard work</desc>
+<desc lang="en">Jason gets a job, but Mimi ends up doing all the hard work</desc>
+<desc lang="en">Jason gets a job</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112153945 GMT" stop="20040112154000 GMT" channel="54" x-broadcast="26777037" x-programme="108783257">
+<title lang="en">five news update</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112154000 GMT" stop="20040112173000 GMT" channel="54" x-broadcast="26765143" x-programme="357899">
+<title lang="en">The Deliverance of Elaine</title>
+<desc lang="en">A young woman cares for her crippled father until he is murdered and an ex-con she has befriended helps her face up to her haunted past. Taxing drama with a fine cast, including Lloyd Bridges, Chris Cooper and Mare Winningham</desc>
+<desc lang="en">A young woman uncovers the torrid details of her tortured past after her father is murdered. Taxing drama, starring Lloyd Bridges and Mare Winningham</desc>
+<desc lang="en">Drama, starring Lloyd Bridges</desc>
+<date>1996</date>
+<category lang="en" x-code="1000">General Movie/Drama</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<category lang="en" x-code="BF01">Film</category>
+<category lang="en" x-code="B###">Special Characteristics</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112154500 GMT" stop="20040112160000 GMT" channel="4" x-broadcast="26771552" x-programme="554634">
+<title lang="en">Arthur</title>
+<sub-title lang="en">Desperately Seeking Stanley/Muffy's Art Attack</sub-title>
+<desc lang="en">The aardvark wonders if he still needs a teddy bear now that he's turned eight, and Muffy brags that she can make better sculptures than a visiting artist, but the sculptor teaches her that art should be about expression, not competition</desc>
+<desc lang="en">The aardvark wonders if he still needs his teddy bear, and Muffy is determined to outdo a visiting sculptor</desc>
+<desc lang="en">Does Arthur need his teddy bear any more?</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112160000 GMT" stop="20040112161500 GMT" channel="4" x-broadcast="26735417" x-programme="552346">
+<title lang="en">X-periMENTAL</title>
+<desc lang="en">Teams from Sheffield and Manchester compete in the science quiz, attempting to work out how many children are needed to lift a tonne of water and how far the fabulous furniture flinger can catapult a full wardrobe. Ortis presents, with Holly Willoughby and Herbie Treehead providing their scientific expertise</desc>
+<desc lang="en">Teams from Sheffield and Manchester compete in the science quiz, attempting to work out how many children are needed to lift a tonne of water and how far the fabulous furniture flinger can catapult a full wardrobe</desc>
+<desc lang="en">How many children does it take to lift a tonne of water?</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<episode-num system="xmltv_ns">.1/13.</episode-num>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112160000 GMT" stop="20040112163000 GMT" channel="53" x-broadcast="26751929" x-programme="553432">
+<title lang="en">A Place in the Sun</title>
+<sub-title lang="en">Guadeloupe</sub-title>
+<desc lang="en">Zilpah Hartley goes house-hunting in Guadeloupe with Sue Maurice, who is planning to retire to sunny climes. With £100,000 to spend, they look over a luxury property with ocean views, an apartment by the coast, a traditional creole home and a villa with a tropical garden, where they could pick their own fruit</desc>
+<desc lang="en">Zilpah Hartley helps a woman approaching retirement to find a home in Guadeloupe, looking over a luxury property with ocean views, an apartment by the coast, a traditional creole house and a villa with a tropical garden</desc>
+<desc lang="en">House-hunting in Guadeloupe</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112160000 GMT" stop="20040112163000 GMT" channel="49" x-broadcast="26751944" x-programme="283032">
+<title lang="en">Hey Arnold!</title>
+<sub-title lang="en">Arnold's Thanksgiving</sub-title>
+<desc lang="en">Thanksgiving proves a nightmare for Arnold and Helga, so they visit Mr Simmons' house to see how it should be done</desc>
+<desc lang="en">Thanksgiving proves a nightmare for Arnold and Helga</desc>
+<desc lang="en">Thanksgiving proves a nightmare</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112161500 GMT" stop="20040112164000 GMT" channel="4" x-broadcast="26735437" x-programme="213375">
+<title lang="en">Rugrats</title>
+<sub-title lang="en">Changes for Chuckie/The Magic Show/Lula of a Time</sub-title>
+<desc lang="en">Chuckie worries his old life is finished, the babies enjoy a magic show and Grandma Lula is called in to babysit</desc>
+<desc lang="en">Chuckie worries his old life is finished and the babies enjoy a magic show</desc>
+<desc lang="en">The babies enjoy a magic show</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<episode-num system="xmltv_ns">.133.</episode-num>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112163000 GMT" stop="20040112171500 GMT" channel="52" x-broadcast="26735466" x-programme="553650">
+<title lang="en">Ready Steady Cook</title>
+<desc lang="en">Ainsley Harriott challenges Nick Nairn and Gino D'Acampo, making his Ready Steady Cook debut, to prepare meals against the clock, using the mystery ingredients provided by Katy Cropper, the only woman to ever win One Man and His Dog, and commentator John Lamb. Pheasant, venison and wild mushrooms are among the ingredients</desc>
+<desc lang="en">Ainsley Harriott challenges Nick Nairn and Gino D'Acampo, making his Ready Steady Cook debut, to prepare meals against the clock from mystery ingredients including pheasant and venison</desc>
+<desc lang="en">With Nick Nairn and Gino D'Acampo</desc>
+<category lang="en" x-code="A500">Cooking</category>
+<category lang="en" x-code="A###">Leisure Hobbies</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112163000 GMT" stop="20040112170000 GMT" channel="49" x-broadcast="26751963" x-programme="552909">
+<title lang="en">Sleepover Club</title>
+<sub-title lang="en">Beach Hut</sub-title>
+<desc lang="en">The girls stage a concert to show beach-hut cafe owner Mr Stephanopolous how much he means to the local community after he contemplates retiring, and Frankie fights for the rights of the Year 7 students, who have to sit away from the rest of the school during lunch. Drama, starring Caitlin Stacey and Eliza Cotter</desc>
+<desc lang="en">The girls stage a concert to show beach-hut cafe owner Mr Stephanopolous how much he means to the local community after he contemplates retiring</desc>
+<desc lang="en">The girls stage a concert</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112163000 GMT" stop="20040112170000 GMT" channel="53" x-broadcast="26776313" x-programme="554080">
+<title lang="en">Room for Improvement</title>
+<desc lang="en">In the first of a new home improvement series, designers Angus Purden and Dave Wellman come to the rescue of 32-year-old east London resident Neil Byrne, who is living in a cramped, dated basement flat. With a budget of £10,000, the design duo set about giving the flat a modern, open-plan look, providing tips on how to make best use of the space and introducing glazed folding walls, multifunctional furniture and a stand-alone kitchen unit</desc>
+<desc lang="en">In the first of a new home improvement series, designers Angus Purden and Dave Wellman transform a dated basement flat in London into a modern open-plan living space, using folding walls, multifunctional furniture and a stand-alone kitchen unit</desc>
+<desc lang="en">New home improvement series</desc>
+<category lang="en" x-code="AF00">DIY</category>
+<category lang="en" x-code="A###">Leisure Hobbies</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112164000 GMT" stop="20040112170000 GMT" channel="4" x-broadcast="26735475" x-programme="554546">
+<title lang="en">Watch My Chops</title>
+<sub-title lang="en">Eau de Corneil</sub-title>
+<desc lang="en">Corneil creates his own cologne and tests it on Bernie, who finds he now makes a big impression on all the girls at school. But while Corneil is determined to market it and get rich, Bernie is afraid that if everyone has the cologne, his new-found sex appeal will be eradicated, so plots to sabotage his canine friend's plans</desc>
+<desc lang="en">Corneil creates his own cologne and tests it on Bernie, who finds he now makes a big impression on all the girls at school</desc>
+<desc lang="en">Corneil creates his own cologne</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112170000 GMT" stop="20040112172500 GMT" channel="4" x-broadcast="26735495" x-programme="554625">
+<title lang="en">Blue Peter</title>
+<desc lang="en">Konnie Huq, Simon Thomas, Matt Baker and Liz Barker go behind the scenes during the construction of the Queen Mary II, the world's largest and most luxurious ocean liner</desc>
+<desc lang="en">The team go behind the scenes during the construction of the Queen Mary II, the world's largest ocean liner</desc>
+<desc lang="en">The construction of the Queen Mary II</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112170000 GMT" stop="20040112180000 GMT" channel="53" x-broadcast="26751968" x-programme="554744">
+<title lang="en">Richard &amp; Judy</title>
+<desc lang="en">Actress Jenny Agutter talks to Richard Madeley and Judy Finnigan about new BBC Four drama The Alan Clark Diaries, in which she plays the controversial politician's wife Jane -- who joins her on the show. Plus, Hollywood star Ben Affleck promotes his latest film Paycheck</desc>
+<desc lang="en">Jenny Agutter discusses new BBC Four drama The Alan Clark Diaries, in which she plays the politician's wife Jane -- who joins her on the show. Plus, Ben Affleck promotes his latest film Paycheck</desc>
+<desc lang="en">With Jenny Agutter and Ben Affleck</desc>
+<category lang="en" x-code="3300">Talk Show</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112170000 GMT" stop="20040112173000 GMT" channel="49" x-broadcast="26751984" x-programme="530730">
+<title lang="en">You've Been Framed!</title>
+<desc lang="en">Jonathan Wilkes introduces more camcorder calamities, including the Clip for a Trip contest, giving three audience members the chance to win a holiday, the Named, Framed and Shamed segment, which exposes unscrupulous money-grabbers, and Kids Framed, in which younger viewers pick their favourite clips</desc>
+<desc lang="en">Jonathan Wilkes introduces more camcorder calamities, including the Clip for a Trip contest, giving three audience members the chance to win a holiday</desc>
+<desc lang="en">Camcorder calamities</desc>
+<category lang="en" x-code="3000">General Show/Game Show</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112171500 GMT" stop="20040112180000 GMT" channel="52" x-broadcast="26925550" x-programme="556687">
+<title lang="en">The Weakest Link Special</title>
+<sub-title lang="en">Historical Relatives</sub-title>
+<desc lang="en">Contestants whose ancestors include such famous figures as Tolstoy, Napoleon and Darwin take up the challenge. Anne Robinson presents</desc>
+<desc lang="en">Contestants whose ancestors include Tolstoy, Napoleon and Darwin take up the challenge</desc>
+<desc lang="en">Contestants with famous ancestors take up the challenge</desc>
+<category lang="en" x-code="3100">Game Show/Quiz</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112172500 GMT" stop="20040112173500 GMT" channel="4" x-broadcast="26735554" x-programme="108762513">
+<title lang="en">Newsround</title>
+<desc lang="en">Current affairs reports aimed at a younger audience</desc>
+<desc lang="en">Current affairs reports for children</desc>
+<desc lang="en">Current affairs reports</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112173000 GMT" stop="20040112180000 GMT" channel="54" x-broadcast="26751987" x-programme="108767636">
+<title lang="en">five news</title>
+<desc lang="en">The day's headlines from around the world, presented by Kirsty Young</desc>
+<desc lang="en">The day's headlines, presented by Kirsty Young</desc>
+<desc lang="en">Presented by Kirsty Young</desc>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112173000 GMT" stop="20040112180000 GMT" channel="49" x-broadcast="26752004" x-programme="554298">
+<title lang="en">I Want That Holiday</title>
+<desc lang="en">Mother and daughter Mary and Linda from London hand over their budgets of £450 each and are invited to choose from three weekend breaks mapped out for them -- will the preferred destination of New York be everything they hoped for? Presented by Jeremy Milnes</desc>
+<desc lang="en">A mother and daughter from London hand over their budgets of £450 each and have a weekend break to New York mapped out for them -- will it be everything they hoped for?</desc>
+<desc lang="en">A mother and daughter visit New York</desc>
+<category lang="en" x-code="A100">Tourism/Travel</category>
+<category lang="en" x-code="A###">Leisure Hobbies</category>
+<episode-num system="xmltv_ns">.5.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112173500 GMT" stop="20040112180000 GMT" channel="4" x-broadcast="26735322" x-programme="552640">
+<title lang="en">Neighbours</title>
+<desc lang="en">Toadie offers David the use of his office until he's back on his feet, but his problems just go from bad to worse when his car is repossessed and Liljana buys a share in Lou's racehorse. Steph is released from hospital and Joe and Max are determined to do everything for her -- but she feels smothered by their fussing. Sindi asks Toadie out for a drink, but he is convinced she is making another pass at him, and eventually she realises it is impossible to continue working with him</desc>
+<desc lang="en">David's problems go from bad to worse when his car is repossessed and Liljana buys a share in Lou's racehorse, Joe and Max end up smothering Steph in their efforts to take care of her and Sindi resigns when she realises her dreams of being with Toadie are impossible</desc>
+<desc lang="en">David turns to Toadie for help</desc>
+<category lang="en" x-code="1500">Soap/Melodrama/Folkloric</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<episode-num system="xmltv_ns">.4362.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112175945 GMT" stop="20040112180000 GMT" channel="54" x-broadcast="26777046" x-programme="108783265">
+<title lang="en">Weather</title>
+<category lang="en" x-code="2100">News/Weather Report</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112180000 GMT" stop="20040112183000 GMT" channel="4" x-broadcast="26735574" x-programme="108762515">
+<title lang="en">BBC News</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112180000 GMT" stop="20040112182000 GMT" channel="52" x-broadcast="26735603" x-programme="57786">
+<title lang="en">The Simpsons</title>
+<sub-title lang="en">Pygmoelion</sub-title>
+<desc lang="en">Moe ditches his down-at-heel image by undergoing plastic surgery -- and becomes an overnight soap star</desc>
+<desc lang="en">Moe has plastic surgery and is transformed into a soap star</desc>
+<desc lang="en">Moe has plastic surgery</desc>
+<category lang="en" x-code="5000">General Children's/Youth</category>
+<category lang="en" x-code="5###">Children's/Youth Programmes</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112180000 GMT" stop="20040112183000 GMT" channel="54" x-broadcast="26752008" x-programme="524351">
+<title lang="en">Home and Away</title>
+<desc lang="en">The hunt begins for Angela Russell's killer and Jesse finds himself the prime suspect as far as the police are concerned -- after all, he found the body and it had been moved after she died. Rhys and Dylan return, but before they can get their heads round what's happened they find that they too are under suspicion</desc>
+<desc lang="en">The hunt begins for Angela Russell's killer and Jesse finds himself the prime suspect as far as the police are concerned. Rhys and Dylan return to find that they too are under suspicion</desc>
+<desc lang="en">The hunt for Angela Russell's killer begins</desc>
+<category lang="en" x-code="1500">Soap/Melodrama/Folkloric</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<episode-num system="xmltv_ns">.3490.</episode-num>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112180000 GMT" stop="20040112183000 GMT" channel="49" x-broadcast="26752009" x-programme="108767642">
+<title lang="en">London Tonight</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112180000 GMT" stop="20040112183000 GMT" channel="53" x-broadcast="26774899" x-programme="108764563">
+<title lang="en">The Salon</title>
+<desc lang="en">Further drama and behind-the-scenes gossip at the hair and beauty studio, based in the Trocadero Centre in London's West End, as guests drop in to share stories while they have their treatments</desc>
+<desc lang="en">Further drama and behind-the-scenes gossip at the hair and beauty studio based in the Trocadero Centre in London's West End</desc>
+<desc lang="en">The latest from the hair and beauty studio</desc>
+<category lang="en" x-code="3000">General Show/Game Show</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112182000 GMT" stop="20040112184500 GMT" channel="52" x-broadcast="26735623" x-programme="41886">
+<title lang="en">The Fresh Prince of Bel-Air</title>
+<sub-title lang="en">Winner Takes Off</sub-title>
+<desc lang="en">Geoffrey insults the Banks family and quits his job thanks to Will and Carlton tricking him into thinking he has won millions on the lottery. Comedy, starring Will Smith</desc>
+<desc lang="en">Geoffrey insults the Banks family and quits his job thanks to a practical joke played by Will and Carlton</desc>
+<desc lang="en">Geoffrey loses his job</desc>
+<category lang="en" x-code="1400">Comedy</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112182945 GMT" stop="20040112183000 GMT" channel="49" x-broadcast="26751752" x-programme="108767564">
+<title lang="en">Weather</title>
+<category lang="en" x-code="2100">News/Weather Report</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112183000 GMT" stop="20040112190000 GMT" channel="4" x-broadcast="26735630" x-programme="108762519">
+<title lang="en">Regional News Programmes</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112183000 GMT" stop="20040112190000 GMT" channel="54" x-broadcast="26752033" x-programme="553344">
+<title lang="en">Family Affairs</title>
+<desc lang="en">Lucy is shocked to learn of Eileen and Pete's plans, while Chrissy is frustrated at the lack of sparkle in her marriage and tells Gary she fears he's no longer attracted to her. Justin flies into a panic on learning Kelly has gone for an abortion</desc>
+<desc lang="en">Lucy is shocked to learn of Eileen and Pete's plans, Chrissy is frustrated at the lack of sparkle in her marriage and Justin panics on learning Kelly has gone for an abortion</desc>
+<desc lang="en">Lucy is shocked to learn of Eileen and Pete's plans</desc>
+<category lang="en" x-code="1500">Soap/Melodrama/Folkloric</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112183000 GMT" stop="20040112190000 GMT" channel="49" x-broadcast="26752049" x-programme="108767663">
+<title lang="en">ITV Evening News</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112183000 GMT" stop="20040112190000 GMT" channel="53" x-broadcast="26752051" x-programme="554190">
+<title lang="en">Hollyoaks</title>
+<desc lang="en">The police are eager to question Ellie, but Mrs Hunter stalls them in the hope she will remember the truth about that fateful night. Meanwhile, newlyweds Ben and Izzy are brought down to earth with a thud on their return from their honeymoon, and Darren speculates about the reasons behind Ruth's return</desc>
+<desc lang="en">The police are eager to question Ellie, but Mrs Hunter stalls them in the hope she will remember the truth, and Darren speculates about Ruth's return</desc>
+<desc lang="en">Mrs Hunter tries to stall the police inquiry</desc>
+<category lang="en" x-code="1500">Soap/Melodrama/Folkloric</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112184500 GMT" stop="20040112190000 GMT" channel="52" x-broadcast="26799324" x-programme="108797683">
+<title lang="en">What the Romans Did for Us</title>
+<sub-title lang="en">Hadrian's Wall</sub-title>
+<desc lang="en">Adam Hart-Davis provides an insight into what life was like on Hadrian's Wall, a remarkable engineering feat and formidable symbol of imperial power</desc>
+<desc lang="en">Adam Hart-Davis provides an insight into what life was like on Hadrian's Wall</desc>
+<desc lang="en">Hadrian's Wall</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<episode-num system="xmltv_ns">.1.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112185945 GMT" stop="20040112190000 GMT" channel="4" x-broadcast="26735177" x-programme="108762473">
+<title lang="en">Weather</title>
+<category lang="en" x-code="2100">News/Weather Report</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112185945 GMT" stop="20040112190000 GMT" channel="49" x-broadcast="26751785" x-programme="108767575">
+<title lang="en">Weather</title>
+<category lang="en" x-code="2100">News/Weather Report</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112190000 GMT" stop="20040112193000 GMT" channel="52" x-broadcast="26735702" x-programme="554623">
+<title lang="en">Days That Shook the World</title>
+<sub-title lang="en">Chernobyl</sub-title>
+<desc lang="en">Eyewitness accounts are used to piece together the Chernobyl disaster of 1986, which still remains the most destructive nuclear accident in history. The story is told through the eyes of a Ukrainian fireman and his pregnant wife living in a nearby town, while the events of the fateful day at the power station are recounted, revealing how a series of long-overdue safety tests ended in tragedy</desc>
+<desc lang="en">Eyewitness accounts are used to piece together the Chernobyl disaster of 1986, which still remains the most destructive nuclear accident in history</desc>
+<desc lang="en">Eyewitness accounts of the Chernobyl disaster</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112190000 GMT" stop="20040112193000 GMT" channel="49" x-broadcast="26752069" x-programme="554033">
+<title lang="en">Emmerdale</title>
+<desc lang="en">Terry grows increasingly agitated about Charity's situation, but when Zoe finds out he's been to see lawyer Rachel, she makes it crystal clear his job is on the line. Steph and Marlon clash over the arrangements for Tricia's funeral and Daz attempts to impress Debbie with a show of reckless bravado that can only lead to more trouble</desc>
+<desc lang="en">Terry grows increasingly agitated about Charity, but when Zoe finds out, she makes it clear his job is on the line. Steph and Marlon clash over Tricia's funeral and Daz attempts to impress Debbie</desc>
+<desc lang="en">Steph and Marlon clash</desc>
+<category lang="en" x-code="1500">Soap/Melodrama/Folkloric</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<episode-num system="xmltv_ns">.3632.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112190000 GMT" stop="20040112195500 GMT" channel="53" x-broadcast="26752074" x-programme="108767669">
+<title lang="en">Channel 4 News</title>
+<desc lang="en">Including sport and weather</desc>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112190000 GMT" stop="20040112193000 GMT" channel="54" x-broadcast="26752075" x-programme="108767670">
+<title lang="en">five news</title>
+<desc lang="en">The day's headlines from around the world, presented by Kirsty Young</desc>
+<desc lang="en">The day's headlines, presented by Kirsty Young</desc>
+<desc lang="en">Presented by Kirsty Young</desc>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112190000 GMT" stop="20040112193000 GMT" channel="4" x-broadcast="26771849" x-programme="553955">
+<title lang="en">Holiday 2004</title>
+<desc lang="en">Craig Doyle checks out the sights of Puglia in southern Italy, Russell Amerasekera reports from Antigua and Sankha Guha visits the Estonian capital of Tallinn</desc>
+<desc lang="en">Craig Doyle reports from southern Italy, Russell Amerasekera explores Antigua and Sankha Guha visits the Estonian capital of Tallinn</desc>
+<desc lang="en">Puglia, Antigua and Estonia</desc>
+<category lang="en" x-code="A100">Tourism/Travel</category>
+<category lang="en" x-code="A###">Leisure Hobbies</category>
+<episode-num system="xmltv_ns">.9.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112192945 GMT" stop="20040112193000 GMT" channel="54" x-broadcast="26777184" x-programme="108783345">
+<title lang="en">Weather</title>
+<category lang="en" x-code="2100">News/Weather Report</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112193000 GMT" stop="20040112200000 GMT" channel="49" x-broadcast="26752094" x-programme="553968">
+<title lang="en">Coronation Street</title>
+<desc lang="en">Rita's day goes from bad to worse when Chesney slips on the floor of the shop and hits his head on the shelves, giving greedy mum Cilla the perfect excuse to take the Kabin owner to the cleaners. Nick and Eileen stand united in their determination to put an end to Todd and Sarah's relationship, while Deirdre plays with fire by getting to know Charlie better -- and neglecting to tell Ken about her blossoming friendship</desc>
+<desc lang="en">Cilla gets the perfect opportunity to take Rita to the cleaners after Chesney slips on the floor of the shop and hits his head on the shelves, while Deirdre's friendship with Charlie blossoms</desc>
+<desc lang="en">Rita's day goes from bad to worse</desc>
+<category lang="en" x-code="1500">Soap/Melodrama/Folkloric</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<episode-num system="xmltv_ns">.5666.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112193000 GMT" stop="20040112200000 GMT" channel="4" x-broadcast="26771842" x-programme="108779619">
+<title lang="en">Inside Out</title>
+<desc lang="en">Documentary series focusing on stories of interest to the region</desc>
+<desc lang="en">Stories of interest to the region</desc>
+<desc lang="en">Regional documentary</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112193000 GMT" stop="20040112200000 GMT" channel="54" x-broadcast="26777187" x-programme="553359">
+<title lang="en">Great Scientists</title>
+<sub-title lang="en">Aristotle</sub-title>
+<desc lang="en">Allan Chapman presents this new five-part series profiling some of the most brilliant and influential scientists in history, charting their incalculable impact on modern civilisation. He begins with ancient Greek philosopher Aristotle, a pupil of Plato whose prolific writings defined the future course of scientific enquiry by analysing the natural world as a unified whole governed by certain laws. Although some of the concepts Aristotle formulated have since become outmoded or unfashionable, he remains a towering figure in intellectual history</desc>
+<desc lang="en">New series. Allan Chapman profiles some of the most influential scientists in history, beginning with Greek philosopher Aristotle, whose prolific writings defined the future course of scientific enquiry</desc>
+<desc lang="en">New series. Profile of Greek philosopher Aristotle</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<episode-num system="xmltv_ns">.0/5.</episode-num>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112193000 GMT" stop="20040112200000 GMT" channel="52" x-broadcast="26795464" x-programme="513499">
+<title lang="en">This Land</title>
+<sub-title lang="en">St Martins -- Scilly</sub-title>
+<desc lang="en">An exploration of St Martins in the Isles of Scilly, which lie only 28 miles from Cornwall, but have the feel of an exotic country</desc>
+<desc lang="en">An exploration of St Martins in the Isles of Scilly</desc>
+<desc lang="en">St Martins in the Isles of Scilly</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<episode-num system="xmltv_ns">.1/6.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112195500 GMT" stop="20040112200000 GMT" channel="53" x-broadcast="26776322" x-programme="108782740">
+<title lang="en">Night Shift</title>
+<desc lang="en">New series profiling people who work through the hours of darkness -- a female taxi driver in London's East End, a Cardiff milkman and a young Birmingham DJ</desc>
+<desc lang="en">New series profiling people who work through the night -- a female taxi driver, a milkman and a DJ</desc>
+<desc lang="en">New series. The `graveyard&quot; shift</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<episode-num system="xmltv_ns">.0/3.</episode-num>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112195945 GMT" stop="20040112200000 GMT" channel="54" x-broadcast="26777291" x-programme="108783440">
+<title lang="en">five news update</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112200000 GMT" stop="20040112203000 GMT" channel="4" x-broadcast="26707129" x-programme="551998">
+<title lang="en">EastEnders</title>
+<desc lang="en">The Slaters' dinner gets a rude interruption and it looks like Charlie will have to face the consequences of his actions. Sam is furious that the bosses of her businesses aren't taking her seriously so she tells Minty it's time for her to play dirty. Tariq wishes he hadn't confided in Mickey about his secret and pays him a visit, while Kat persuades Zoe to talk to Kelly, but she seems to have missed her chance</desc>
+<desc lang="en">The Slaters' dinner gets a rude interruption and it looks like Charlie will have to face the consequences of his actions. Sam is furious with the bosses of her businesses and decides it's time to play dirty</desc>
+<desc lang="en">The Slaters' dinner gets a rude interruption</desc>
+<category lang="en" x-code="1500">Soap/Melodrama/Folkloric</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<episode-num system="xmltv_ns">.510.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112200000 GMT" stop="20040112203000 GMT" channel="49" x-broadcast="26764598" x-programme="558330">
+<title lang="en">Tonight with Trevor McDonald</title>
+<desc lang="en">Robert Kilroy-Silk gives his first interview since the BBC dropped his daily talk show after his remarks about Arabs in a newspaper column brought charges of racism. Is political correctness threatening to engulf the principle of freedom of speech?</desc>
+<desc lang="en">Robert Kilroy-Silk gives his first interview since the BBC dropped his daily talk show after his remarks about Arabs in a newspaper column brought charges of racism</desc>
+<desc lang="en">The race row engulfing Robert Kilroy-Silk</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112200000 GMT" stop="20040112210000 GMT" channel="53" x-broadcast="26776729" x-programme="553291">
+<title lang="en">Nazi Grand Prix</title>
+<desc lang="en">Account of the life and death of British racing driver Richard Seaman, whose victory in the 1938 German Grand Prix was allowed to sink into historical oblivion because of his decision to join the Mercedes team. Although initially seduced by the prospect of driving Germany's technically advanced Silver Arrow cars, Seaman gradually came to realise the true nature of the Nazi regime -- but still could not resist the challenge of competing in the 1939 Grand Prix. It was a choice which proved fatal, as his car skidded off the track and burst into flames in circumstances which remain mysterious</desc>
+<desc lang="en">The life and death of British racing driver Richard Seaman, whose victory in the 1938 German Grand Prix was allowed to sink into historical oblivion because of his decision to join the Mercedes team -- the pride of Nazi Germany</desc>
+<desc lang="en">Richard Seaman's victory in the 1938 German Grand Prix</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112200000 GMT" stop="20040112210000 GMT" channel="54" x-broadcast="26777472" x-programme="500333">
+<title lang="en">Ultimate Explosions</title>
+<desc lang="en">Tiff Needell narrates this documentary about an immense unexploded World War One bomb found under a Belgian farmhouse, the sinister product of an arms race that would eventually lead to Hiroshima and Nagasaki. The programme reveals how a series of tunnels were packed with explosives by the Allies during the conflict in an effort to secure a strategic ridge, but four remained undetonated. One was destroyed by lightning in 1955, harming no-one, and two still exist under open fields -- but the shocking discovery that another is now lying under a working farmhouse has forced experts to attempt to resolve the situation before disaster strikes</desc>
+<desc lang="en">Documentary about an unexploded World War One bomb found under a Belgian farmhouse. The programme reveals how the Allies packed a series of tunnels with explosives in an effort to secure a strategic ridge -- but not all were used</desc>
+<desc lang="en">An unexploded bomb from World War One</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112200000 GMT" stop="20040112203000 GMT" channel="52" x-broadcast="26788253" x-programme="496702">
+<title lang="en">Fred Dibnah's Age of Steam</title>
+<sub-title lang="en">The Transport Revolution</sub-title>
+<desc lang="en">Fred tells the story of how steam power brought about a revolution in transport, charting its development from the earliest colliery railways, through the first passenger train services, to the end of an era in the 1960s</desc>
+<desc lang="en">Fred charts the revolution in transport brought about by steam power, from the earliest colliery railways to the first passenger train services</desc>
+<desc lang="en">The first passenger railways</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<episode-num system="xmltv_ns">.1/6.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112203000 GMT" stop="20040112210000 GMT" channel="4" x-broadcast="26735748" x-programme="553788">
+<title lang="en">Changing Rooms</title>
+<sub-title lang="en">Penarth</sub-title>
+<desc lang="en">Laurence Llewelyn-Bowen and the team visit Penarth, where they give two rooms an unusual new look. Oliver Heath creates a post-punk dining room complete with paint splatters on the wall, while Anna Ryder Richardson treats a couple who don't like bright colours to a vibrant pink, black and turquoise bedroom</desc>
+<desc lang="en">Laurence Llewelyn-Bowen and his team give two rooms in Penarth an unusual new look -- Oliver Heath creates a post-punk dining room while Anna Ryder Richardson gives a bedroom a vivid turquoise, pink and black colour scheme</desc>
+<desc lang="en">Unusual makeovers in Penarth</desc>
+<category lang="en" x-code="AF00">DIY</category>
+<category lang="en" x-code="A###">Leisure Hobbies</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112203000 GMT" stop="20040112210000 GMT" channel="52" x-broadcast="26735777" x-programme="554143">
+<title lang="en">University Challenge</title>
+<sub-title lang="en">St Andrews v Queen's Belfast</sub-title>
+<desc lang="en">Jeremy Paxman oversees the battle of wits between Scottish and Irish students, as the University of St Andrews does battle with Queen's University, Belfast</desc>
+<desc lang="en">Jeremy Paxman hosts the student quiz, as the University of St Andrews take on Queen's University, Belfast</desc>
+<desc lang="en">The University of St Andrews take on Queen's University, Belfast</desc>
+<category lang="en" x-code="3100">Game Show/Quiz</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<episode-num system="xmltv_ns">.17.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112203000 GMT" stop="20040112210000 GMT" channel="49" x-broadcast="26752118" x-programme="553977">
+<title lang="en">Coronation Street</title>
+<desc lang="en">Cilla takes Chesney to the hospital and tells him to pretend he's in great pain, before informing Rita she is reporting her for assault, and Eileen decides to play dirty to split up Todd and Sarah once and for all. Dev refuses to buy Maya an expensive vase she takes a shine to while out shopping, but later, when they are having dinner, he spots it on the sideboard -- how could she afford it when she's penniless?</desc>
+<desc lang="en">Cilla informs Rita she is reporting her for assault, Eileen decides the time has come to play dirty and Dev realises he has bitten off more than he can chew with Maya after she resorts to stealing</desc>
+<desc lang="en">Cilla piles the pressure on Rita</desc>
+<category lang="en" x-code="1500">Soap/Melodrama/Folkloric</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<episode-num system="xmltv_ns">.5667.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112205945 GMT" stop="20040112210000 GMT" channel="54" x-broadcast="26777477" x-programme="108783514">
+<title lang="en">five news update</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112210000 GMT" stop="20040112220000 GMT" channel="4" x-broadcast="26735786" x-programme="551995">
+<title lang="en">Merseybeat</title>
+<sub-title lang="en">Distant Vices</sub-title>
+<desc lang="en">A young woman is found murdered in a playground, and DS Kelly is sent to investigate. The victim is identified as Clare Robinson, a local student with an unblemished past. But when it becomes apparent that this seemingly innocent woman was involved in drug smuggling, Kelly is forced into a tense alliance with DI Hammond from the Drug Squad. Their inquiries initially prove fruitless, but an encounter with one of Clare's friends who is clearly hiding something leads to the truth. Meanwhile, Jim Oulton is reunited with his teenage sweetheart, who is being menaced by her vengeful ex-husband and a mysterious man is seen loitering outside the station, looking for Kelly -- what secrets is she hiding from her colleagues?</desc>
+<desc lang="en">The body of a local student is discovered in a playground, and it soon becomes clear this seemingly innocent young woman was involved in drug smuggling. Meanwhile, a mysterious man is seen loitering outside the station, looking for DS Kelly</desc>
+<desc lang="en">A body is discovered in a local playground</desc>
+<category lang="en" x-code="1000">General Movie/Drama</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<episode-num system="xmltv_ns">.6.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112210000 GMT" stop="20040112213000 GMT" channel="52" x-broadcast="26735817" x-programme="553635">
+<title lang="en">Never Mind the Buzzcocks</title>
+<desc lang="en">Mark Lamarr presides over more musical mayhem, with guests rock legend Alice Cooper, singer Tony Hadley, Radio 2 favourite Katie Melua and Sun columnist Jane Moore joining regular team captains Bill Bailey and Phill Jupitus</desc>
+<desc lang="en">Guests Alice Cooper, Tony Hadley, Katie Melua and Jane Moore join Bill Bailey, Phill Jupitus and Mark Lamarr for more musical mayhem</desc>
+<desc lang="en">With Alice Cooper</desc>
+<category lang="en" x-code="6000">General Music/Ballet/Dance</category>
+<category lang="en" x-code="6###">Music/Ballet/Dance</category>
+<episode-num system="xmltv_ns">.1.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112210000 GMT" stop="20040112225500 GMT" channel="54" x-broadcast="26797831" x-programme="69954">
+<title lang="en">Royce</title>
+<desc lang="en">Cutbacks force an important senator to shut down a top-secret government department, so several agents try to reverse the decision by kidnapping his son. Execrable action comedy, starring James Belushi, Chelsea Field, Peter Boyle and Michael J Shannon</desc>
+<desc lang="en">Cutbacks force the closure of a secret government department, so several agents try to reverse the decision by kidnapping a senator's son. Execrable action comedy, starring James Belushi and Chelsea Field</desc>
+<desc lang="en">Action comedy, starring James Belushi</desc>
+<date>1994</date>
+<category lang="en" x-code="1400">Comedy</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<category lang="en" x-code="BF01">Film</category>
+<category lang="en" x-code="B###">Special Characteristics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112210000 GMT" stop="20040112220000 GMT" channel="53" x-broadcast="26797952" x-programme="554113">
+<title lang="en">Spitfire Ace</title>
+<desc lang="en">New series. Four modern pilots compete to win the chance to fly one of the very few remaining operational Spitfires. World War Two RAF pilots had little time for training -- most had only spent 10 hours in the air before being sent into battle with the Luftwaffe. The winner of the contest will get the chance to undergo this intensive flight training, experiencing the exact conditions under which fighter pilots learned to fly 60 years ago</desc>
+<desc lang="en">New series. Four modern pilots compete to win the chance to undergo the same training fighter pilots went through to fly in the Battle of Britain</desc>
+<desc lang="en">New series. Four pilots train to fly World War Two aircraft</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<episode-num system="xmltv_ns">.0/4.</episode-num>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112210000 GMT" stop="20040112230000 GMT" channel="49" x-broadcast="26800017" x-programme="554219">
+<title lang="en">Wall of Silence</title>
+<desc lang="en">A teenage boy is beaten to death by a gang of youths on a notorious housing estate in south-east London. Even though the attack takes place in public view, no witnesses are willing to come forward -- causing the detective in charge of the case to move heaven and earth to break the wall of silence around the killers. One-off drama inspired by true events, starring James Nesbitt, Phil Davis and Stephanie Leonidas</desc>
+<desc lang="en">A teenage boy is beaten to death by youths on a London housing estate, but the detective in charge of the case has difficulty persuading witnesses to come forward. One-off drama, starring James Nesbitt</desc>
+<desc lang="en">One-off drama, starring James Nesbitt</desc>
+<category lang="en" x-code="1000">General Movie/Drama</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112213000 GMT" stop="20040112220000 GMT" channel="52" x-broadcast="26799968" x-programme="558178">
+<title lang="en">The Sack Race</title>
+<desc lang="en">New series. Game show in which two raw recruits set out to get fired on their first day at work, using all their skill and ingenuity to ensure they'll be escorted from the premises at precisely 3pm</desc>
+<desc lang="en">New series. Game show in which two raw recruits set out to get fired on their first day at work</desc>
+<desc lang="en">New series. Game show in which contestants aim to lose their jobs</desc>
+<category lang="en" x-code="3100">Game Show/Quiz</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<episode-num system="xmltv_ns">.0.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112220000 GMT" stop="20040112223000 GMT" channel="4" x-broadcast="26735825" x-programme="108762563">
+<title lang="en">BBC News at Ten O'Clock</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112220000 GMT" stop="20040112223000 GMT" channel="52" x-broadcast="26735856" x-programme="527920">
+<title lang="en">Little Britain</title>
+<desc lang="en">Comedy sketches focusing on the lives of extraordinary and sometimes slightly sinister British folk, with Matt Lucas, David Walliams and guest star Anthony Head. Tom Baker narrates</desc>
+<desc lang="en">Comedy sketches focusing on the lives of extraordinary and sometimes slightly sinister British folk. Anthony Head guest stars</desc>
+<desc lang="en">Anthony Head guest stars</desc>
+<category lang="en" x-code="1400">Comedy</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<episode-num system="xmltv_ns">.6.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112220000 GMT" stop="20040112230000 GMT" channel="53" x-broadcast="26776741" x-programme="432566">
+<title lang="en">Without a Trace</title>
+<sub-title lang="en">Birthday Boy</sub-title>
+<desc lang="en">The team search for a missing boy who vanishes en route to his birthday celebration at Yankee stadium. The youngster was last seen boarding a subway train, but when he fails to show up at the next stop or the ballpark, his frantic father contacts the police. But by this point, the boy has been missing for 16 hours -- is there any hope of finding him?</desc>
+<desc lang="en">The team search for a missing boy who vanishes en route to his birthday celebration, and was last seen getting on a subway train. But by the time the police get involved, he has been missing for 16 hours -- is there any hope of finding him?</desc>
+<desc lang="en">The team search for a young boy</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112223000 GMT" stop="20040112223500 GMT" channel="4" x-broadcast="26735867" x-programme="108762568">
+<title lang="en">Regional News and Weather</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<category lang="en" x-code="2100">News/Weather Report</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112223000 GMT" stop="20040112232000 GMT" channel="52" x-broadcast="26735895" x-programme="108762569">
+<title lang="en">Newsnight</title>
+<desc lang="en">Jeremy Paxman presents a comprehensive round-up of the day's events</desc>
+<desc lang="en">Round-up of the day's events, with Jeremy Paxman</desc>
+<desc lang="en">Headline round-up</desc>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112223500 GMT" stop="20040112231500 GMT" channel="4" x-broadcast="26788572" x-programme="553849">
+<title lang="en">Rail Cops</title>
+<desc lang="en">While preparing for a royal visit, Sergeant Mark Cleland finds an injured seagull and takes it into his care. Although his inspector is less than pleased with this act of kindness and his telephone advisers urge him to put the bird out of its misery, Mark is determined to find a home for his feathered friend. Meanwhile, Chris Houghton takes charge of the situation when a man throws himself under a tube train</desc>
+<desc lang="en">Sergeant Mark Cleland rescues an injured bird and tries to find a home for it, while Chris Houghton takes charge of the situation when a man throws himself in front of a tube train</desc>
+<desc lang="en">Mark Cleland rescues an injured bird</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<episode-num system="xmltv_ns">.2.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112225500 GMT" stop="20040113003500 GMT" channel="54" x-broadcast="26765660" x-programme="193914">
+<title lang="en">Good Cop, Bad Cop</title>
+<desc lang="en">An ex-cop and two mismatched allies go on the run from a killer determined to prevent them revealing he murdered the mayor's daughter. Largely incoherent thriller, starring David Keith, Pamela Anderson, Robert Hays and Stacy Keach</desc>
+<desc lang="en">An ex-cop and two mismatched allies go on the run from a killer determined to silence them. Incoherent thriller, starring David Keith and Pamela Anderson</desc>
+<desc lang="en">Thriller, starring David Keith</desc>
+<date>1994</date>
+<category lang="en" x-code="1100">Detective/Thriller</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<category lang="en" x-code="BF01">Film</category>
+<category lang="en" x-code="B###">Special Characteristics</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112230000 GMT" stop="20040112232900 GMT" channel="49" x-broadcast="26752143" x-programme="108767685">
+<title lang="en">ITV News</title>
+<desc lang="en">Including Local News and ITV Weather</desc>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112230000 GMT" stop="20040113005500 GMT" channel="53" x-broadcast="26797462" x-programme="3043">
+<title lang="en">Pacific Heights</title>
+<desc lang="en">Veteran British director John Schlesinger, the mastermind behind acclaimed dramas including Far from the Madding Crowd and Midnight Cowboy, delivered thrills in spades in this taut offering, which stars Melanie Griffith and Matthew Modine. They play a young couple who purchase their dream house and rent out an apartment to enigmatic bachelor Michael Keaton -- who soon shows a sinister side to his nature, making their lives hell in an attempt to take over the property. Laurie Metcalf, Dorian Harewood and Griffith's mother Tippi Hedren also star</desc>
+<desc lang="en">A couple rent a room to a seemingly charming bachelor who subjects them to a campaign of terror. Sinister thriller, starring Michael Keaton, Melanie Griffith and Matthew Modine</desc>
+<desc lang="en">Thriller, starring Michael Keaton</desc>
+<date>1990</date>
+<category lang="en" x-code="1100">Detective/Thriller</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<category lang="en" x-code="BF01">Film</category>
+<category lang="en" x-code="B###">Special Characteristics</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112231500 GMT" stop="20040113011500 GMT" channel="4" x-broadcast="26795106" x-programme="380667">
+<title lang="en">Atomic Train</title>
+<desc lang="en">A train carrying a potentially explosive cargo of lethal chemicals and a nuclear bomb speeds out of control en route to Denver. Can mild-mannered transport investigator John Segar bring the runaway vehicle to a halt before the city is reduced to rubble? Lacklustre action thriller, starring Rob Lowe, Kristin Davis and Esai Morales</desc>
+<desc lang="en">A train carrying a potentially explosive cargo speeds out of control towards Denver, prompting a desperate race to prevent the vehicle reducing the city to rubble. Lacklustre action thriller, starring Rob Lowe</desc>
+<desc lang="en">Action thriller, starring Rob Lowe</desc>
+<date>1999</date>
+<category lang="en" x-code="1100">Detective/Thriller</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<category lang="en" x-code="BF01">Film</category>
+<category lang="en" x-code="B###">Special Characteristics</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112232000 GMT" stop="20040113002000 GMT" channel="52" x-broadcast="26800019" x-programme="447926">
+<title lang="en">BBC Four on BBC Two</title>
+<sub-title lang="en">Robert Hooke: Victim of Genius</sub-title>
+<desc lang="en">The story of Robert Hooke who, despite inventing a powerful microscope and writing the first scientific bestseller, remains a virtual unknown. The programme reveals how he was erased from history, much of his work being plundered by jealous rival Isaac Newton, who conspired to have his reputation destroyed</desc>
+<desc lang="en">The story of Robert Hooke who, despite inventing a powerful microscope and writing the first scientific bestseller, remains a virtual unknown -- in the shadow of his jealous rival Isaac Newton</desc>
+<desc lang="en">The story of British scientist Robert Hooke</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112232900 GMT" stop="20040112233000 GMT" channel="49" x-broadcast="26752152" x-programme="108767693">
+<title lang="en">London Weather</title>
+<category lang="en" x-code="2100">News/Weather Report</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040112233000 GMT" stop="20040113003000 GMT" channel="49" x-broadcast="26787673" x-programme="553845">
+<title lang="en">The Premiership on Monday</title>
+<desc lang="en">Matt Smith is joined by a panel of guests to reflect on the major talking points arising from the weekend's games, plus action from yesterday as Manchester United played host to Newcastle United and Chelsea travelled to Leicester City</desc>
+<desc lang="en">Matt Smith and guests reflect on the major talking points arising from the weekend's games, plus action from Manchester United v Newcastle United and Leicester City v Chelsea</desc>
+<desc lang="en">Highlights of Manchester United v Newcastle United</desc>
+<category lang="en" x-code="4F15">Football - Club</category>
+<category lang="en" x-code="4###">Sports</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113002000 GMT" stop="20040113005000 GMT" channel="52" x-broadcast="26802128" x-programme="550752">
+<title lang="en">World Cinema Awards Preview</title>
+<desc lang="en">Stuart Maconie reviews the six films competing for BBC Four's World Cinema Award, announced on January 24, a list comprising Man Without a Past, Spirited Away, City of God, Belleville Rendezvous, Etre et Avoir and Goodbye Lenin! Celebrities including Bonnie Greer and Richard Jobson pick their favourites from the nominees</desc>
+<desc lang="en">Stuart Maconie reviews the six films shortlisted for BBC Four's World Cinema Award, announced on January 24, while celebrities including Bonnie Greer and Richard Jobson pick their favourites from the nominees</desc>
+<desc lang="en">Stuart Maconie reviews the six shortlisted films</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113003000 GMT" stop="20040113011000 GMT" channel="49" x-broadcast="26764709" x-programme="108774273">
+<title lang="en">Football League Extra</title>
+<desc lang="en">Trevor Harris, Tony Jones and Tom Skippings present the pick of the goals and talking points from recent matches involving clubs in Divisions One, Two and Three</desc>
+<desc lang="en">The pick of the goals and talking points from recent matches involving clubs in Divisions One, Two and Three</desc>
+<desc lang="en">Highlights of recent matches</desc>
+<category lang="en" x-code="4F15">Football - Club</category>
+<category lang="en" x-code="4###">Sports</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113003500 GMT" stop="20040113012500 GMT" channel="54" x-broadcast="26752171" x-programme="108767709">
+<title lang="en">Now is the Time</title>
+<sub-title lang="en">Night of Combat -- Kickboxing</sub-title>
+<desc lang="en">A round-up of recent national and international bouts, featuring some of the sport's foremost stars</desc>
+<desc lang="en">A round-up of recent national and international bouts</desc>
+<desc lang="en">National and international bouts</desc>
+<category lang="en" x-code="4F0A">Combat Sports (without own category)</category>
+<category lang="en" x-code="4###">Sports</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113005000 GMT" stop="20040113005500 GMT" channel="52" x-broadcast="26997283" x-programme="354648">
+<title lang="en">The Witness</title>
+<sub-title lang="en">The First World Cup</sub-title>
+<desc lang="en">Dante Locco recalls the inaugural World Cup final between Uruguay and Argentina, a tense match which took place in Montevideo, Uruguay, in 1930</desc>
+<desc lang="en">Dante Locco recalls the inaugural World Cup final, which took place in 1930 between Uruguay and Argentina</desc>
+<desc lang="en">The first World Cup final</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<episode-num system="xmltv_ns">.13.</episode-num>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113005500 GMT" stop="20040113030500 GMT" channel="53" x-broadcast="26797481" x-programme="185803">
+<title lang="en">The Spitfire Grill</title>
+<desc lang="en">Two women with apparently little in common -- one an ex-convict, the other a hard-working restaurateur -- form a strong bond as they face the trials of life together. Stirring emotional drama, starring Ellen Burstyn, Alison Elliot and Will Patton</desc>
+<desc lang="en">Two women with apparently little in common form a strong bond as they face the trials of life together. Stirring drama, with Ellen Burstyn</desc>
+<desc lang="en">Emotional drama, with Ellen Burstyn</desc>
+<date>1996</date>
+<category lang="en" x-code="1000">General Movie/Drama</category>
+<category lang="en" x-code="1###">Movie/Drama</category>
+<category lang="en" x-code="BF01">Film</category>
+<category lang="en" x-code="B###">Special Characteristics</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113005500 GMT" stop="20040113010000 GMT" channel="52" x-broadcast="26997307" x-programme="430032">
+<title lang="en">The Witness</title>
+<sub-title lang="en">The Death of Gandhi</sub-title>
+<desc lang="en">A lawyer shares his recollections of the day he saw the death of Gandhi</desc>
+<desc lang="en">The death of Gandhi</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113010000 GMT" stop="20040113023000 GMT" channel="52" x-broadcast="26745071" x-programme="552312">
+<title lang="en">Languages and Travel</title>
+<sub-title lang="en">Talk Italian</sub-title>
+<desc lang="en">Crash course in basic Italian, filmed in Bologna and Tuscany</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113010945 GMT" stop="20040113011000 GMT" channel="49" x-broadcast="26751749" x-programme="108767562">
+<title lang="en">ITV News Headlines</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113011000 GMT" stop="20040113020000 GMT" channel="49" x-broadcast="26764822" x-programme="108774148">
+<title lang="en">Today with Des and Mel</title>
+<desc lang="en">Des O'Connor and Melanie Sykes host another mix of celebrity chat and music</desc>
+<desc lang="en">Des O'Connor and Melanie Sykes host the celebrity chat show</desc>
+<desc lang="en">Celebrity chat</desc>
+<category lang="en" x-code="3300">Talk Show</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113011445 GMT" stop="20040113011500 GMT" channel="4" x-broadcast="26735121" x-programme="108762467">
+<title lang="en">Weatherview</title>
+<category lang="en" x-code="2100">News/Weather Report</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113011500 GMT" stop="20040113021500 GMT" channel="4" x-broadcast="26735931" x-programme="429409">
+<title lang="en">Sign Zone: The Life of Mammals</title>
+<sub-title lang="en">Opportunists</sub-title>
+<desc lang="en">David Attenborough investigates the feeding habits of omnivores, a group of animals that find a non-specialist diet is the secret of success in an ever-changing environment -- an eating plan that has worked for humans throughout history. Some of these mammals have special talents -- raccoons have sensitive paws to seek out food on land and underwater, babirusa pigs have a strong sense of smell to detect the scent of ripe fruit through dense jungle -- and others are opportunists, such as Texan skunks, feasting on baby bats as they fall to the ground from cave walls, and grizzly bears which consume a staggering 30,000 calories a day when salmon are available</desc>
+<desc lang="en">David Attenborough investigates the feeding habits of omnivores, a group of animals that find a non-specialist diet is the secret of success in an ever-changing environment -- an eating plan that has worked for humans throughout history</desc>
+<desc lang="en">The feeding habits of omnivores</desc>
+<category lang="en" x-code="9100">Nature/Animals/Environment</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<episode-num system="xmltv_ns">.5/10.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113012500 GMT" stop="20040113021500 GMT" channel="54" x-broadcast="26770468" x-programme="553044">
+<title lang="en">US PGA Golf</title>
+<sub-title lang="en">Mercedes Championship</sub-title>
+<desc lang="en">The Mercedes Championship. Action from the prestigious tournament at the Plantation Course in Hawaii, where reigning champion Ernie Els is expected to dominate proceedings. The South African was in excellent form last year, picking up numerous trophies along the way -- can anybody stop `The Big Easy&quot; from succeeding once again?</desc>
+<desc lang="en">The Mercedes Championship. Action from the prestigious tournament at the Plantation Course in Hawaii, where reigning champion Ernie Els is expected to dominate proceedings</desc>
+<desc lang="en">The Mercedes Championship</desc>
+<category lang="en" x-code="4F19">Golf</category>
+<category lang="en" x-code="4###">Sports</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113020000 GMT" stop="20040113022500 GMT" channel="49" x-broadcast="26764857" x-programme="108774338">
+<title lang="en">I Want That House</title>
+<desc lang="en">Guide to buying second homes abroad without breaking the bank, featuring advice on everything from finding a solicitor to getting to grips with foreign tax laws</desc>
+<desc lang="en">Guide to buying second homes abroad without breaking the bank</desc>
+<desc lang="en">Guide to buying a holiday home</desc>
+<category lang="en" x-code="AF00">DIY</category>
+<category lang="en" x-code="A###">Leisure Hobbies</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113021500 GMT" stop="20040113034000 GMT" channel="54" x-broadcast="26770592" x-programme="553056">
+<title lang="en">FIM World Supercross Grand Prix</title>
+<sub-title lang="en">Round Three -- Anaheim, California</sub-title>
+<desc lang="en">Highlights from the third round of the season in Anaheim, California, where competitors will be hoping to pick up some crucial championship points. Ricky Carmichael dominated proceedings last year and is expected to finish way ahead of everybody this time around -- can the American continue his domination of the sport with another victory here?</desc>
+<desc lang="en">Highlights from the third round of the season in Anaheim, California, where competitors will be hoping to pick up some crucial championship points</desc>
+<desc lang="en">From Anaheim in California</desc>
+<category lang="en" x-code="4700">Motor Sport</category>
+<category lang="en" x-code="4###">Sports</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113021500 GMT" stop="20040113031500 GMT" channel="4" x-broadcast="26772000" x-programme="534874">
+<title lang="en">Sign Zone: The Million Pound Property Experiment</title>
+<sub-title lang="en">Harrogate</sub-title>
+<desc lang="en">Design duo Colin McAllister and Justin Ryan's next project is a Fifties four-bedroom house in Harrogate, hoping to make it more modern so it stands out from the crowd. However, project manager Nigel Leck is convinced they have bitten off more than they can chew -- the team have never tackled a family home before -- and storms out of a design meeting. His fears may prove accurate as, with costs rising and the house sitting on the market, Justin and Colin are forced to admit that their design might be a bit too contemporary, and matters are made worse when the kitchen floods. Is the property challenge doomed?</desc>
+<desc lang="en">Colin McAllister and Justin Ryan renovate a Fifties four-bedroom house in Harrogate. However, project manager Nigel Leck is convinced they have bitten off more than they can chew</desc>
+<desc lang="en">A Fifties house in Harrogate</desc>
+<category lang="en" x-code="AF00">DIY</category>
+<category lang="en" x-code="A###">Leisure Hobbies</category>
+<episode-num system="xmltv_ns">.3.</episode-num>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113022500 GMT" stop="20040113025000 GMT" channel="49" x-broadcast="26764877" x-programme="108774341">
+<title lang="en">Entertainment Now</title>
+<desc lang="en">Review of the week's headline-making showbusiness events</desc>
+<desc lang="en">Review of the showbusiness week</desc>
+<desc lang="en">Showbiz review</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113023000 GMT" stop="20040113050000 GMT" channel="52" x-broadcast="26745108" x-programme="552316">
+<title lang="en">Languages and Travel</title>
+<sub-title lang="en">Italy Inside Out</sub-title>
+<desc lang="en">New angles on Venice, Milan, Rome, Puglia and Sicily</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113025000 GMT" stop="20040113034500 GMT" channel="49" x-broadcast="26764897" x-programme="108774345">
+<title lang="en">Trisha</title>
+<desc lang="en">Guests relate their stories in front of a studio audience, as Trisha Goddard presides</desc>
+<desc lang="en">Guests relate their stories in front of a studio audience</desc>
+<desc lang="en">Studio discussion</desc>
+<category lang="en" x-code="3300">Talk Show</category>
+<category lang="en" x-code="3###">Show/Game Show</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113030500 GMT" stop="20040113040000 GMT" channel="53" x-broadcast="26797967" x-programme="466945">
+<title lang="en">Homicide in Kennewick</title>
+<desc lang="en">The discovery of a 9,000-year-old skull by the Columbia River that may rewrite America's history, casting doubt on the widely held theory the continent was populated via a land-bridge from Asia</desc>
+<desc lang="en">The discovery of a 9,000-year-old skull by the Columbia River that could rewrite the history of America</desc>
+<desc lang="en">The discovery of a 9,000-year-old skull</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113031500 GMT" stop="20040113040500 GMT" channel="4" x-broadcast="26795196" x-programme="455620">
+<title lang="en">Sign Zone: Secrets of Leadership</title>
+<sub-title lang="en">John F Kennedy</sub-title>
+<desc lang="en">Widely regarded as one of the greatest statesmen of the 20th century, John F Kennedy is today seen as a forerunner of the modern style of administration, epitomising leaders with the ability to create their own myths and make the public like them. Andrew Roberts reveals why he was so successful and suggests his methods are now the template for contemporary leadership all over the world</desc>
+<desc lang="en">Andrew Roberts reveals why John F Kennedy is seen as a forerunner of the modern style of administration, epitomising leaders with the ability to create their own myths and make the public like them</desc>
+<desc lang="en">John F Kennedy</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113034000 GMT" stop="20040113051000 GMT" channel="54" x-broadcast="26770675" x-programme="549002">
+<title lang="en">Argentinian Football</title>
+<sub-title lang="en">Boca Juniors v Olimpo</sub-title>
+<desc lang="en">Boca Juniors v Olimpo. Another chance to see the match from Argentina's Torneo Apertura at the Bombanera Stadium. The home side have opened up a slender gap at the top of the table and will be favourites to take all three points against a team struggling to score goals away from home</desc>
+<desc lang="en">Boca Juniors v Olimpo. Another chance to see the match from Argentina's Torneo Apertura at the Bombanera Stadium</desc>
+<desc lang="en">Boca Juniors v Olimpo</desc>
+<category lang="en" x-code="4F15">Football - Club</category>
+<category lang="en" x-code="4###">Sports</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113034500 GMT" stop="20040113041000 GMT" channel="49" x-broadcast="26764923" x-programme="558330">
+<title lang="en">Tonight with Trevor McDonald</title>
+<desc lang="en">Robert Kilroy-Silk gives his first interview since the BBC dropped his daily talk show after his remarks about Arabs in a newspaper column brought charges of racism. Is political correctness threatening to engulf the principle of freedom of speech?</desc>
+<desc lang="en">Robert Kilroy-Silk gives his first interview since the BBC dropped his daily talk show after his remarks about Arabs in a newspaper column brought charges of racism</desc>
+<desc lang="en">The race row engulfing Robert Kilroy-Silk</desc>
+<category lang="en" x-code="2300">Documentary</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<video>
+<present>yes</present>
+  <aspect>16:9</aspect>
+</video>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<previously-shown></previously-shown>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113040000 GMT" stop="20040113041500 GMT" channel="53" x-broadcast="26774855" x-programme="553186">
+<title lang="en">Faith in Action</title>
+<sub-title lang="en">Strength to Quit</sub-title>
+<desc lang="en">Religious education series</desc>
+<desc lang="en">Religious education</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113040500 GMT" stop="20040113043000 GMT" channel="4" x-broadcast="26795229" x-programme="108795916">
+<title lang="en">BBC News</title>
+<desc lang="en">Regular bulletin</desc>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113040945 GMT" stop="20040113041000 GMT" channel="49" x-broadcast="26751763" x-programme="108767569">
+<title lang="en">ITV News Headlines</title>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113041000 GMT" stop="20040113053000 GMT" channel="49" x-broadcast="26752207" x-programme="108767718">
+<title lang="en">ITV Nightscreen</title>
+<desc lang="en">Behind the scenes of ITV programmes and a guide to films being shown on the small screen, plus recipes and facts</desc>
+<desc lang="en">Guide to forthcoming programmes and films, plus recipes and facts</desc>
+<desc lang="en">Behind the scenes of ITV programmes</desc>
+<category lang="en" x-code="9000">General Education/Science/Factual Topics</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113041500 GMT" stop="20040113044500 GMT" channel="53" x-broadcast="26788570" x-programme="271774">
+<title lang="en">Middle English</title>
+<sub-title lang="en">Cinderella</sub-title>
+<desc lang="en">Updated retelling of Cinderella. (Age 11-14)</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113043000 GMT" stop="20040113050000 GMT" channel="4" x-broadcast="26736029" x-programme="108762584">
+<title lang="en">Hardtalk</title>
+<desc lang="en">Tim Sebastian talks to people making the headlines</desc>
+<desc lang="en">Tim Sebastian talks to people in the news</desc>
+<desc lang="en">With Tim Sebastian</desc>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113044500 GMT" stop="20040113050000 GMT" channel="53" x-broadcast="26774919" x-programme="108781526">
+<title lang="en">Sarah and the Whammi</title>
+<sub-title lang="en">A New Baby</sub-title>
+<desc lang="en">A girl's search for identity in Ulster. (Age 4-6)</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113050000 GMT" stop="20040113053000 GMT" channel="4" x-broadcast="26736048" x-programme="108762585">
+<title lang="en">The World Today</title>
+<desc lang="en">International reports</desc>
+<category lang="en" x-code="2000">General News/Current Affairs</category>
+<category lang="en" x-code="2###">News/Current Affairs</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113050000 GMT" stop="20040113053000 GMT" channel="52" x-broadcast="26745115" x-programme="552318">
+<title lang="en">Languages and Travel</title>
+<sub-title lang="en">Eurografters -- Italy</sub-title>
+<desc lang="en">Guide to working overseas</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113050000 GMT" stop="20040113051500 GMT" channel="53" x-broadcast="26774926" x-programme="450023">
+<title lang="en">Geography Junction</title>
+<sub-title lang="en">The Rhone</sub-title>
+<desc lang="en">A voyage down the Rhone. (Age 7-11)</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113051000 GMT" stop="20040113053500 GMT" channel="54" x-broadcast="26798902" x-programme="108797478">
+<title lang="en">Argentinian Football Highlights</title>
+<desc lang="en">All the goals and talking points from the latest matches in Argentina's Torneo Apertura</desc>
+<desc lang="en">All the goals and talking points from Argentina's Torneo Apertura</desc>
+<desc lang="en">Torneo Apertura action</desc>
+<category lang="en" x-code="4F15">Football - Club</category>
+<category lang="en" x-code="4###">Sports</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113051500 GMT" stop="20040113053000 GMT" channel="53" x-broadcast="26774929" x-programme="108781536">
+<title lang="en">We Are From</title>
+<sub-title lang="en">The Netherlands</sub-title>
+<desc lang="en">Dutch children. (Age 9-12)</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113053000 GMT" stop="20040113060000 GMT" channel="4" x-broadcast="26736069" x-programme="108762587">
+<title lang="en">World Business Report</title>
+<desc lang="en">The latest business news, with informed analysis</desc>
+<desc lang="en">Informed analysis</desc>
+<category lang="en" x-code="8000">General Social/Political Issues/Economics</category>
+<category lang="en" x-code="8###">Social/Political Issues/Economics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113053000 GMT" stop="20040113060000 GMT" channel="52" x-broadcast="26745127" x-programme="552320">
+<title lang="en">Languages and Travel</title>
+<sub-title lang="en">Talk the Talk -- Compilation</sub-title>
+<desc lang="en">What makes people learn a language?</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113053000 GMT" stop="20040113054500 GMT" channel="53" x-broadcast="26774932" x-programme="515570">
+<title lang="en">Animated Tales of the World</title>
+<sub-title lang="en">The Magic Paintbrush -- China</sub-title>
+<desc lang="en">A poor Chinese boy wishes for a paintbrush. (Age 7-11)</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113053500 GMT" stop="20040113060000 GMT" channel="54" x-broadcast="26770751" x-programme="108778818">
+<title lang="en">Motorsport Mundial</title>
+<desc lang="en">High-speed footage, news and views from around the world, focusing on everything from touring car races to single-seater events</desc>
+<desc lang="en">High-speed footage, news and views from around the world</desc>
+<desc lang="en">High-speed coverage</desc>
+<category lang="en" x-code="4700">Motor Sport</category>
+<category lang="en" x-code="4###">Sports</category>
+<audio>
+<present>yes</present>
+  <stereo>stereo</stereo>
+</audio>
+<subtitles type="teletext"></subtitles>
+</programme>
+<programme start="20040113054500 GMT" stop="20040113060000 GMT" channel="53" x-broadcast="26775019" x-programme="280103">
+<title lang="en">Book Box</title>
+<sub-title lang="en">What's So Good About Malorie Blackman?</sub-title>
+<desc lang="en">How author Malorie Blackman creates strong characters. (Age 7-11)</desc>
+<category lang="en" x-code="9F00">Education</category>
+<category lang="en" x-code="9###">Education/Science/Factual Topics</category>
+<subtitles type="teletext"></subtitles>
+</programme>
+</tv>

@@ -1,0 +1,79 @@
+#!/home/mbrainz/perl/bin/perl -w
+# vi: set ts=4 sw=4 :
+
+use strict;
+
+use AnanovaXMLTV;
+
+my @c = AnanovaXMLTV->channels;
+
+my @names = <<ENDOFNAMES =~ /^(.+)$/mg;
+Monkey Dust
+Little Britain
+Radio Active
+I'm Sorry I Haven't A Clue
+Just a Minute
+The Goon Show
+The Now Show
+Dead Ringers
+On The Hour
+QI
+Q I
+Harry Hill
+Four at the Store
+ENDOFNAMES
+
+sub xfrm($) { join " ", (lc shift) =~ /(\w+)/g }
+@names = map { xfrm $_ } @names;
+my $things = join "|", @names;
+my $looking_for_re = qr/\b(?:$things)\b/o;
+
+sub looking_for { (xfrm $_[0]) =~ $looking_for_re }
+
+my @channels = <<ENDOFCHANNELS =~ /^(.+)$/mg;
+BBC1
+BBC2
+ITV1 (ITV1 London)
+Channel 4
+five
+
+BBC1 (Digital)
+ITV2
+BBC3
+BBC4
+
+BBC7
+Radio 4 (FM)
+
+ENDOFCHANNELS
+
+my %by_name = reverse map { @$_ } @c;
+
+use Date::Calc qw( Today Add_Delta_Days );
+my @today = Today;
+my @tomorrow = Add_Delta_Days(@today, 1);
+my @dayafter = Add_Delta_Days(@today, 2);
+
+for my $name (@channels)
+{
+	my $id = $by_name{$name}
+		or warn("No channel '$name'"), next;
+
+	for my $day (\@today, \@tomorrow, \@dayafter)
+	{
+		#print "$name = @$day\n";
+		my $xml = AnanovaXMLTV->xml_channel_day_listing($id, @$day);
+
+		for my $prog ($xml->findnodes("/tv/programme"))
+		{
+			my $title = $prog->findvalue("./title");
+			next unless looking_for($title);
+
+			my $start = $prog->findvalue('./@start');
+			my $stop = $prog->findvalue('./@stop');
+			print "$name\t$start - $stop : $title\n";
+		}
+	}
+}
+
+# eof WatchForProgrammes.pl

@@ -1,0 +1,43 @@
+#!/usr/bin/perl -w
+# vi: set ts=4 sw=4 :
+
+use strict;
+
+use IPC::Open2 'open2';
+
+my ($r, $w);
+my $pid = open2($r, $w, 'smbclient', '//rudolf/c', '-N');
+
+unless (fork)
+{
+	close $w;
+	while (<$r>)
+	{
+		chomp;
+		print "<< $_\n";
+	}
+	close $r;
+	exit;
+}
+
+Send("ls");
+Send("cd \"windows/Application Data/Mozilla/Profiles\"");
+Send("ls");
+Send("cd default");
+Send("ls");
+
+sub Send
+{
+	sleep 1;
+	my $cmd = shift;
+	print ">> $cmd\n";
+	print $w "$cmd\n";
+}
+
+close $w;
+
+waitpid $pid, 0;
+
+exit;
+
+# eof 
